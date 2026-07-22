@@ -1,0 +1,156 @@
+/* Viaja Sabendo — v1 (jul/2026). Mobile-first, sem JS. */
+:root {
+  --petrol: #0f6e64;
+  --petrol-escuro: #0a4f48;
+  --ambar: #e8a13c;
+  --ambar-escuro: #c9820f;
+  --areia: #f6efe2;
+  --tinta: #1d2b32;
+  --tinta-suave: #51626b;
+  --fundo: #faf8f4;
+  --branco: #ffffff;
+  --borda: #e6dfd2;
+  --raio: 14px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--tinta);
+  background: var(--fundo);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+img { max-width: 100%; display: block; }
+a { color: var(--petrol); }
+
+/* ---------- Header ---------- */
+header.topo {
+  background: var(--petrol-escuro);
+  color: var(--branco);
+  padding: 0.9rem 1rem;
+}
+.topo-inner {
+  max-width: 960px; margin: 0 auto;
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.6rem;
+}
+.logo {
+  font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em;
+  color: var(--branco); text-decoration: none; white-space: nowrap;
+}
+.logo span { color: var(--ambar); }
+nav.menu { display: flex; flex-wrap: wrap; gap: 0.2rem 1.1rem; font-size: 0.95rem; }
+nav.menu a { color: #d9e8e5; text-decoration: none; padding: 0.2rem 0; }
+nav.menu a:hover, nav.menu a[aria-current="page"] { color: var(--ambar); }
+
+/* ---------- Hero ---------- */
+.hero {
+  background: linear-gradient(160deg, var(--petrol) 0%, var(--petrol-escuro) 70%);
+  color: var(--branco);
+  padding: 3rem 1rem 3.4rem;
+  text-align: center;
+}
+.hero h1 { font-size: clamp(1.7rem, 5vw, 2.6rem); line-height: 1.2; max-width: 720px; margin: 0 auto 0.9rem; }
+.hero h1 em { color: var(--ambar); font-style: normal; }
+.hero p { max-width: 640px; margin: 0 auto 1.6rem; color: #d9e8e5; font-size: 1.05rem; }
+
+/* ---------- Layout ---------- */
+main { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+article.conteudo { max-width: 760px; margin: 0 auto; }
+section { margin-bottom: 2.4rem; }
+h1.titulo { font-size: clamp(1.6rem, 4.5vw, 2.2rem); line-height: 1.25; margin-bottom: 0.4rem; }
+h2 { font-size: 1.35rem; margin: 2rem 0 0.7rem; color: var(--petrol-escuro); }
+h3 { font-size: 1.08rem; margin: 1.3rem 0 0.4rem; }
+p { margin-bottom: 0.9rem; }
+ul, ol { margin: 0 0 1rem 1.3rem; }
+li { margin-bottom: 0.45rem; }
+
+.selo {
+  display: inline-block; background: var(--areia); color: var(--tinta-suave);
+  border: 1px solid var(--borda); border-radius: 99px;
+  font-size: 0.8rem; padding: 0.15rem 0.75rem; margin-bottom: 1.2rem;
+}
+
+/* Resposta rápida (o "quanto custa" em 5 segundos) */
+.resposta {
+  background: var(--areia); border-left: 5px solid var(--ambar);
+  border-radius: 0 var(--raio) var(--raio) 0;
+  padding: 1rem 1.2rem; margin: 1.2rem 0 1.8rem;
+}
+.resposta strong { color: var(--petrol-escuro); }
+.resposta .valorzao { font-size: 1.5rem; font-weight: 800; color: var(--tinta); display: block; margin: 0.2rem 0; }
+
+/* ---------- Tabela de custos ---------- */
+.tabela-wrap { overflow-x: auto; margin: 1rem 0 1.4rem; }
+table.custos { width: 100%; border-collapse: collapse; background: var(--branco); border-radius: var(--raio); overflow: hidden; font-size: 0.95rem; box-shadow: 0 1px 4px rgba(29, 43, 50, 0.07); }
+table.custos th, table.custos td { padding: 0.65rem 0.9rem; text-align: left; }
+table.custos th { background: var(--petrol-escuro); color: var(--branco); font-weight: 600; }
+table.custos tr:nth-child(even) td { background: var(--areia); }
+table.custos td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
+table.custos tr.total td { font-weight: 800; background: #efe6d2; border-top: 2px solid var(--ambar); }
+
+/* ---------- Cards (home) ---------- */
+.grade { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.1rem; }
+.card {
+  background: var(--branco); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 1.3rem 1.3rem 1.1rem; text-decoration: none; color: var(--tinta);
+  box-shadow: 0 1px 4px rgba(29, 43, 50, 0.06);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+  display: flex; flex-direction: column;
+}
+.card:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(29, 43, 50, 0.12); }
+.card .tag { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ambar-escuro); font-weight: 700; margin-bottom: 0.35rem; }
+.card h3 { margin: 0 0 0.35rem; font-size: 1.15rem; color: var(--petrol-escuro); }
+.card p { color: var(--tinta-suave); font-size: 0.92rem; margin-bottom: 0.8rem; }
+.card .chamada { margin-top: auto; font-weight: 700; color: var(--petrol); font-size: 0.92rem; }
+
+/* ---------- Botões ---------- */
+.btn, .btn-aff {
+  display: inline-block; text-decoration: none; font-weight: 700;
+  border-radius: 10px; padding: 0.65rem 1.25rem; font-size: 0.98rem;
+  transition: background 0.12s ease;
+}
+.btn { background: var(--branco); color: var(--petrol-escuro); border: 2px solid var(--petrol); }
+.btn:hover { background: var(--areia); }
+.btn-aff { background: var(--ambar); color: #2b1d04; border: 2px solid var(--ambar); }
+.btn-aff:hover { background: var(--ambar-escuro); border-color: var(--ambar-escuro); color: var(--branco); }
+.btn-linha { margin: 0.3rem 0 1.2rem; }
+
+/* Bloco de item de custo com botão */
+.item-custo {
+  background: var(--branco); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 1.1rem 1.2rem; margin-bottom: 1rem;
+}
+.item-custo h3 { margin-top: 0; }
+.item-custo .faixa { font-weight: 800; color: var(--petrol-escuro); }
+
+/* ---------- Aviso / nota ---------- */
+.nota {
+  font-size: 0.88rem; color: var(--tinta-suave);
+  background: var(--branco); border: 1px dashed var(--borda); border-radius: var(--raio);
+  padding: 0.8rem 1rem; margin: 1.4rem 0;
+}
+
+/* ---------- Checklist ---------- */
+ul.checklist { list-style: none; margin-left: 0; }
+ul.checklist li {
+  background: var(--branco); border: 1px solid var(--borda); border-radius: 10px;
+  padding: 0.7rem 1rem 0.7rem 2.6rem; position: relative; margin-bottom: 0.55rem;
+}
+ul.checklist li::before {
+  content: "✓"; position: absolute; left: 0.95rem; top: 0.62rem;
+  color: var(--petrol); font-weight: 800;
+}
+
+/* ---------- Footer ---------- */
+footer.rodape {
+  background: var(--petrol-escuro); color: #bcd4d0;
+  padding: 2rem 1rem 2.4rem; font-size: 0.88rem;
+}
+.rodape-inner { max-width: 960px; margin: 0 auto; display: grid; gap: 1.2rem; }
+.rodape a { color: #e6f0ee; }
+.rodape .disclosure { border-top: 1px solid rgba(255, 255, 255, 0.15); padding-top: 1rem; }
+@media (min-width: 640px) {
+  .rodape-inner { grid-template-columns: 1fr 1fr; }
+  .rodape .disclosure { grid-column: 1 / -1; }
+}
