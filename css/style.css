@@ -118,6 +118,19 @@ table.custos tr.total td { font-weight: 800; background: var(--areia); border-to
 .btn-aff:hover { background: var(--laranja-escuro); border-color: var(--laranja-escuro); color: var(--branco); }
 .btn-linha { margin: 0.3rem 0 1.2rem; }
 
+/* Hub de evergreen (home): chips discretos sob o CTA principal */
+.hub { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; margin-top: 1.1rem; }
+.btn-hub {
+  display: inline-block; text-decoration: none; font-weight: 600; font-size: 0.9rem;
+  padding: 0.45rem 1rem; border-radius: 99px; background: var(--branco); color: var(--azul-escuro);
+  border: 1.5px solid var(--borda); box-shadow: 0 1px 3px rgba(29, 43, 50, 0.06);
+}
+.btn-hub:hover { border-color: var(--laranja); color: var(--laranja-escuro); }
+
+/* Variante alerta do box resposta ("o erro que dobra o preço") */
+.resposta.erro { border-left-color: #d64545; background: #fdecec; }
+.resposta.erro .valorzao { font-size: 1.15rem; }
+
 /* Bloco de item de custo com botão */
 .item-custo {
   background: var(--branco); border: 1px solid var(--borda); border-radius: var(--raio);
