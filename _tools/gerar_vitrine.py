@@ -40,7 +40,14 @@ CATALOGO = {
         "titulo_pagina": "Os passeios que valem em Foz do Iguaçu",
         "descricao": "Os passeios mais bem avaliados de Foz do Iguaçu, com foto, nota, número de avaliações e preço do dia. Ordenados por volume de avaliações.",
         "volta_para": ("/destinos/foz-do-iguacu/", "Quanto custa 4 dias em Foz do Iguaçu"),
-        "produtos": [],   # preenchido na etapa 3
+        "produtos": [
+            ("2484P236", "Os dois lados em um dia", "Brasil de manhã, Argentina à tarde — o mais avaliado da cidade.", "Cataratas do Iguaçu vistas da passarela do lado brasileiro"),
+            ("384147P6", "Dois lados em grupo pequeno", "Mesmo roteiro, grupo menor e o preço mais baixo da lista.", "Grupo pequeno diante das quedas das Cataratas do Iguaçu"),
+            ("384147P1", "Dois lados com guia privado", "Só o seu grupo, no seu ritmo, sem esperar ninguém.", "Guia acompanhando visitantes nas Cataratas do Iguaçu"),
+            ("216404P1", "Voo panorâmico de helicóptero", "Dez minutos vendo a Garganta do Diabo de cima.", "Helicóptero sobrevoando as Cataratas do Iguaçu"),
+            ("7558P4", "Só o lado argentino, com transfer", "Para quem já fez o lado brasileiro: o transporte cruza a fronteira.", "Passarela sobre as quedas no parque argentino do Iguazú"),
+            ("409882P1", "Dia completo nos dois lados", "A alternativa em grupo para o roteiro clássico de um dia.", "Arco-íris sobre as quedas das Cataratas do Iguaçu"),
+        ],
     },
 }
 
