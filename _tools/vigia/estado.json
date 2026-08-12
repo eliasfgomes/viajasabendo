@@ -5,8 +5,8 @@
   "preco": 489.14,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.968013,
-  "reviews": 8097,
+  "nota": 4.968021,
+  "reviews": 8099,
   "selos": [
    "FREE_CANCELLATION"
   ],
@@ -87,8 +87,8 @@
   "preco": 338.72,
   "preco_cheio": 368.17,
   "moeda": "BRL",
-  "nota": 4.986871,
-  "reviews": 1371,
+  "nota": 4.9868994,
+  "reviews": 1374,
   "selos": [
    "FREE_CANCELLATION",
    "SKIP_THE_LINE",
@@ -772,6 +772,265 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Tour-to-Iguassu-Falls-on-the-Brazilian-and-Argentine-Sides/d970-463652P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/32/9a/ee/10/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "18016P15": {
+  "codigo": "18016P15",
+  "titulo": "Show Rojo Tango com Jantar Opcional e Traslado Privado Incluso.",
+  "preco": 1367.5,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7066665,
+  "reviews": 75,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Rojo-Tango-Dinner-and-Tango-Show-including-Private-Transfers/d901-18016P15?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/01/4b/2a.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "109228P57": {
+  "codigo": "109228P57",
+  "titulo": "Excursão Premium de um Dia a Colônia Saindo de Buenos Aires",
+  "preco": 1078.22,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 3.858108,
+  "reviews": 148,
+  "selos": [],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Premium-Day-Tour-To-Colonia-From-Buenos-Aires/d901-109228P57?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/6c/f3/aa.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "5674P539": {
+  "codigo": "5674P539",
+  "titulo": "Entrada para o Palacio Barolo Guided Tour",
+  "preco": 289.28,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.285714,
+  "reviews": 14,
+  "selos": [],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Entrance-and-day-guided-tour-thorugh-the-Barolo-Palace/d901-5674P539?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/c1/94/97.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "379880P2": {
+  "codigo": "379880P2",
+  "titulo": "Traslado privativo de ida ou volta do aeroporto: Ezeiza (EZE) – Buenos Aires",
+  "preco": 352.39,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9661837,
+  "reviews": 621,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-Transfer-EZE-Airport-Capital-Federal/d901-379880P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/a4/e3/57.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "369758P2": {
+  "codigo": "369758P2",
+  "titulo": "Excursão de meio dia ao Delta do Tigre com navegação",
+  "preco": 262.98,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 3.9578314,
+  "reviews": 166,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Half-Day-Excursion-to-Delta-del-Tigre-and-San-Isidro/d901-369758P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/7f/5e/3a.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "5605881P2": {
+  "codigo": "5605881P2",
+  "titulo": "Observação de aves em Buenos Aires | Reserva Costanera Sur",
+  "preco": 473.36,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 5.0,
+  "reviews": 13,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Bird-watching-and-nature-South-Coast-Ecological-Reserve/d901-5605881P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/0f/f7/06.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "161924P96": {
+  "codigo": "161924P96",
+  "titulo": "Buenos Aires After Dark: Myths & Legends Tour de ônibus noturno",
+  "preco": 368.17,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.2608695,
+  "reviews": 23,
+  "selos": [
+   "FREE_CANCELLATION",
+   "SKIP_THE_LINE"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Santiago-Complete-Hop-On-Hop-Off-Bus-Cable-Car-and-Funicular/d901-161924P96?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/32/a6/25/c8/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "208239P3": {
+  "codigo": "208239P3",
+  "titulo": "Ônibus turístico Hop On Hop Off de Buenos Aires e benefícios exclusivos",
+  "preco": 184.09,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.3896713,
+  "reviews": 213,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Buenos-Aires-Bus-Tour-with-Free-Stops-and-Exclusive-Benefits/d901-208239P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/b7/b7/2f.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "14659P6": {
+  "codigo": "14659P6",
+  "titulo": "City tour semi-privado de Buenos Aires",
+  "preco": 178.83,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.694737,
+  "reviews": 95,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Semi-Private-City-Tour-of-Buenos-Aires/d901-14659P6?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/88/c5/82.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "221874P3": {
+  "codigo": "221874P3",
+  "titulo": "Transferência privada de ou para o Aeroporto Jorge Newbery \"AEP\"",
+  "preco": 315.58,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9142857,
+  "reviews": 35,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-transfer-from-or-to-Jorge-Newbery-Airport-Aeroparque/d901-221874P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/11/89/13/e5.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "100485P2": {
+  "codigo": "100485P2",
+  "titulo": "Teatro Astor Piazzolla Bilhete de saída",
+  "preco": 178.83,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.2830687,
+  "reviews": 378,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Piazzolla-Tango-Show/d901-100485P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/f4/ed/16.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "52462P5": {
+  "codigo": "52462P5",
+  "titulo": "Passeio de bicicleta de dia inteiro em BA Imersão gastronômica e cultural Máx. 6 pessoas",
+  "preco": 578.56,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.965517,
+  "reviews": 174,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Intimate-Full-Day-Bike-Tour-BA-South-and-BA-North/d901-52462P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/bf/65/84.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "386327P1": {
+  "codigo": "386327P1",
+  "titulo": "Tour privado e personalizado por Buenos Aires",
+  "preco": 946.73,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": null,
+  "reviews": null,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/5-Hour-Private-Tour-in-Buenos-Aires/d901-386327P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/84/f6/7b.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "5515232P2": {
+  "codigo": "5515232P2",
+  "titulo": "Excursão ao Paraguai: Itaipu, Monday Falls e Mercado Local",
+  "preco": 525.96,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 5.0,
+  "reviews": 1,
+  "selos": [
+   "FREE_CANCELLATION",
+   "NEW_ON_VIATOR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Authentic-Paraguay-Tour-Itaipu-Dam-Monday-Falls-and-Market/d970-5515232P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/a5/1f/23/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "21715P39": {
+  "codigo": "21715P39",
+  "titulo": "Rafain Churrascaria - Jantar e Show",
+  "preco": 568.04,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.25,
+  "reviews": 8,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-Rafain-Steakhouse-Show/d970-21715P39?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/85/b4/98.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "346348P4": {
+  "codigo": "346348P4",
+  "titulo": "Cataratas do Iguazu: Excursão de um dia no Brasil e na Argentina",
+  "preco": 520.7,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 5.0,
+  "reviews": 41,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-day-tour-TWO-SIDES-of-the-falls-customized/d970-346348P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/14/9f/80/b5.jpg",
   "visto_em": "2026-08-12",
   "destino": "Foz do Iguaçu"
  }
