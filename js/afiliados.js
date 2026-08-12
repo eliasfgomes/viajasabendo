@@ -31,9 +31,12 @@
       var gc = window.goatcounter;
       if (!gc || typeof gc.count !== "function") return;   // bloqueador ativo: só não conta
       var programa = botao.getAttribute("data-aff");
+      // páginas com seletor de modo (sozinho/casal) somam o modo no fim do caminho,
+      // pra saber em qual versão da conta o clique aconteceu
+      var modo = document.documentElement.getAttribute("data-modo");
       gc.count({
-        path: "aff/" + programa + "/" + pagina(),
-        title: "Clique afiliado: " + programa,
+        path: "aff/" + programa + "/" + pagina() + (modo ? "/" + modo : ""),
+        title: "Clique afiliado: " + programa + (modo ? " (" + modo + ")" : ""),
         event: true
       });
     } catch (err) {

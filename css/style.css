@@ -160,6 +160,21 @@ table.custos tr.total td { font-weight: 800; background: var(--areia); border-to
 .vcard-preco small { display: block; font-size: 0.75rem; font-weight: 400; color: var(--tinta-suave); margin-top: 0.1rem; }
 .vcard .btn-aff { margin-top: auto; display: block; text-align: center; padding: 0.7rem 1rem; }
 
+/* Seletor sozinho / em casal (só a página de BA usa hoje) */
+[data-modo="sozinho"] [data-so-casal] { display: none !important; }
+[data-modo="casal"] [data-so-sozinho] { display: none !important; }
+.modo-troca {
+  display: inline-flex; gap: 0.25rem; margin: 0 0 1.1rem;
+  background: var(--ceu); border: 1px solid #bcd9ec; border-radius: 99px; padding: 0.25rem;
+}
+.modo-btn {
+  font: inherit; font-size: 0.93rem; font-weight: 700; cursor: pointer;
+  border: 0; background: transparent; color: var(--azul-escuro);
+  padding: 0.4rem 1.1rem; border-radius: 99px; line-height: 1.2;
+}
+.modo-btn[aria-pressed="true"] { background: var(--azul-escuro); color: var(--branco); }
+.modo-btn:focus-visible { outline: 3px solid var(--laranja); outline-offset: 2px; }
+
 /* Chamada para a vitrine, no topo da página de orçamento */
 .card-vitrine {
   display: block; text-decoration: none; text-align: center; font-weight: 700;

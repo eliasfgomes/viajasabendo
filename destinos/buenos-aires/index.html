@@ -1,8 +1,17 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-modo="sozinho">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+/* Define o modo ANTES de pintar a tela: ?modo=casal abre direto na aba do casal,
+   sem piscar os números de quem viaja sozinho. Sem JS, fica em "sozinho". */
+try {
+  if (new URLSearchParams(location.search).get("modo") === "casal") {
+    document.documentElement.setAttribute("data-modo", "casal");
+  }
+} catch (e) {}
+</script>
 <title>Quanto custa 7 dias em Buenos Aires em 2026 (viajando sozinho) | Viaja Sabendo</title>
 <meta name="description" content="Orçamento real de 7 dias em Buenos Aires sozinho: voo com mala, hotel com café, comida, cartão SUBE, passeios e seguro. R$ 5.745 fechados, item por item, com câmbio datado de agosto de 2026.">
 <link rel="canonical" href="https://viajasabendo.com.br/destinos/buenos-aires/">
@@ -27,22 +36,35 @@
 
 <main>
 <article class="conteudo">
-  <span class="selo">Valores de agosto de 2026 · viajando sozinho · saindo de São Paulo</span>
-  <h1 class="titulo">Quanto custa 7 dias em Buenos Aires sozinho: R$ 5.745</h1>
+  <span class="selo"><span data-so-sozinho>Uma pessoa</span><span data-so-casal>Casal</span> · 7 dias · valores de agosto de 2026 · saindo de São Paulo</span>
+  <h1 class="titulo">Quanto custa 7 dias em Buenos Aires<span data-so-sozinho> sozinho: R$ 5.745</span><span data-so-casal> em casal: R$ 9.590</span></h1>
 
-  <a class="card-vitrine" href="/passeios/buenos-aires/">📸 Os passeios que valem em BA — fotos e preços</a>
-
-  <div class="resposta">
-    <strong>Resposta rápida:</strong>
-    <span class="valorzao">R$ 5.745 (uma pessoa, 7 dias)</span>
-    Voo com mala despachada, 6 noites de hotel com café em San Telmo ou Palermo, comida, transporte,
-    os passeios que valem e ainda seguro, eSIM e IOF. A faixa realista vai de <strong>R$ 4.700 a R$ 7.010</strong>
-    conforme voo e hotel — e trocar o hotel por quarto privado de hostel corta até <strong>R$ 1.300</strong> desse total.
+  <div class="modo-troca" role="group" aria-label="Como você vai viajar">
+    <button type="button" class="modo-btn" data-modo-btn="sozinho" aria-pressed="true">Sozinho</button>
+    <button type="button" class="modo-btn" data-modo-btn="casal" aria-pressed="false">Em casal</button>
   </div>
+
+  <div class="resposta" data-so-sozinho>
+    <strong>Resposta rápida:</strong>
+    <span class="valorzao">R$ 5.745 — uma pessoa, 7 dias</span>
+    Voo com mala despachada, 6 noites de hotel com café, comida, transporte, os passeios que valem,
+    seguro, eSIM e IOF. Faixa realista: <strong>R$ 4.700 a R$ 7.010</strong>, conforme voo e hotel.
+  </div>
+  <div class="resposta" data-so-casal>
+    <strong>Resposta rápida:</strong>
+    <span class="valorzao">R$ 9.590 o casal — R$ 4.795 por pessoa</span>
+    A mesma viagem de 7 dias, dividida por dois: <strong>R$ 950 a menos por pessoa</strong> do que ir sozinho.
+    O motivo é um só — <strong>o hotel é o único item que não dobra</strong>.
+  </div>
+
+  <p class="btn-linha">
+    <a class="btn-aff" data-so-sozinho href="/passeios/buenos-aires/">📸 Ver os passeios que valem em BA</a>
+    <a class="btn-aff" data-so-casal data-aff="holafly" href="https://holafly.sjv.io/enBWdr" rel="noopener sponsored" target="_blank">📶 eSIM para os dois celulares (Holafly)</a>
+  </p>
   <p class="aviso-parceiro">Os botões de reserva desta página são links de parceiros: se você reservar por eles, o site recebe comissão sem custo extra para você.</p>
 
   <h2>A tabela completa</h2>
-  <div class="tabela-wrap">
+  <div class="tabela-wrap" data-so-sozinho>
     <table class="custos">
       <tr><th>Item (uma pessoa, 7 dias)</th><th>Na conta</th></tr>
       <tr><td>Voo GRU ⇄ Buenos Aires, ida e volta <strong>com mala de 23 kg</strong> (tarifa R$ 1.350 + mala R$ 300)</td><td class="num">R$ 1.650</td></tr>
@@ -54,18 +76,34 @@
       <tr class="total"><td>Total fechado</td><td class="num">R$ 5.745</td></tr>
     </table>
   </div>
-  <p class="nota">Entradas, tarifas e preços de passeio conferidos em <strong>5 de agosto de 2026</strong>, com câmbio de <strong>ARS 1.000 = R$ 3,42</strong> e <strong>US$ 1 = R$ 5,13</strong>. O IOF de 3,5% incide sobre os cerca de R$ 2.000 que passam no cartão internacional (a conta assume hotel e passeios pagos antes, em reais, e o dia a dia em pesos). Em Buenos Aires as tarifas de transporte são reajustadas todo mês e o preço dos passeios muda todo dia — o número que vale é sempre o do dia da compra. Uma ressalva honesta: o show de tango entrou por R$ 337 porque estava em oferta; no preço cheio (R$ 366) o total vai para R$ 5.774.</p>
+  <div class="tabela-wrap" data-so-casal>
+    <table class="custos">
+      <tr><th>Item (casal, 7 dias)</th><th>Na conta</th></tr>
+      <tr><td>Voo GRU ⇄ Buenos Aires com mala, <strong>duas passagens</strong></td><td class="num">R$ 3.300</td></tr>
+      <tr><td>Hotel 6 noites com café, <strong>quarto de casal</strong> — o único item que não dobra</td><td class="num">R$ 2.300</td></tr>
+      <tr><td>Comida, 7 dias, duas pessoas</td><td class="num">R$ 2.180</td></tr>
+      <tr><td>Transporte urbano (dois cartões SUBE + 7 dias)</td><td class="num">R$ 270</td></tr>
+      <tr><td>Passeios (free tour, Tigre, Recoleta e o show de tango, para dois)</td><td class="num">R$ 1.140</td></tr>
+      <tr><td>Seguro, eSIM e IOF dos dois</td><td class="num">R$ 400</td></tr>
+      <tr class="total"><td>Total do casal</td><td class="num">R$ 9.590</td></tr>
+      <tr class="total"><td>Por pessoa</td><td class="num">R$ 4.795</td></tr>
+    </table>
+  </div>
+  <p class="nota" data-so-casal><strong>Onde nascem os R$ 950 de economia por pessoa:</strong> tudo na tabela dobra — voo, comida, transporte, passeios, seguro — <em>menos a hospedagem</em>. O quarto de casal sai por cerca de R$ 383 a noite contra R$ 350 do quarto individual, ou seja, quase o mesmo preço para duas pessoas. É a diária dividida que derruba a conta de R$ 5.745 para R$ 4.795 por cabeça.</p>
+  <p class="nota">Entradas, tarifas e preços de passeio conferidos em <strong>5 de agosto de 2026</strong>, com câmbio de <strong>ARS 1.000 = R$ 3,42</strong> e <strong>US$ 1 = R$ 5,13</strong>. O IOF de 3,5% incide sobre os cerca de R$ 2.000 que cada um passa no cartão internacional (a conta assume hotel e passeios pagos antes, em reais, e o dia a dia em pesos). Em Buenos Aires as tarifas de transporte são reajustadas todo mês e o preço dos passeios muda todo dia — o número que vale é sempre o do dia da compra. Uma ressalva honesta: o show de tango entrou por R$ 337 porque estava em oferta; no preço cheio (R$ 366) a conta individual vai para R$ 5.774.</p>
+
+  <a class="card-vitrine" href="/passeios/buenos-aires/">📸 Os passeios que valem em BA — fotos e preços</a>
 
   <div class="resposta erro">
     <strong>⚠️ Onde o turista paga o dobro sem perceber:</strong>
     <span class="valorzao">duas coisas banais, quase R$ 900 na mesma viagem.</span>
     <strong>1) Não registrar o cartão SUBE.</strong> O cartão custa poucos pesos no quiosque, mas quem não o registra
-    no site oficial paga quase o <strong>dobro da tarifa</strong> em cada viagem de metrô e ônibus — a linha de
-    transporte da tabela sai de R$ 135 para perto de R$ 270.
+    no site oficial paga quase o <strong>dobro da tarifa</strong> em cada viagem de metrô e ônibus — o transporte
+    de cada pessoa sai de R$ 135 para perto de R$ 270.
     <strong>2) Jantar onde o Instagram manda, toda noite.</strong> O mesmo bife de chorizo custa <strong>R$ 85 a 140</strong>
     numa parrilla de bairro e passa de <strong>R$ 300</strong> na casa que viralizou. Trocar quatro das sete noites já
-    soma <strong>R$ 750</strong> à conta. Nenhum dos dois dobra o total da viagem — juntos, porém, custam quase mil reais
-    que ninguém orçou.
+    soma <strong>R$ 750 por pessoa</strong> à conta. Nenhum dos dois dobra o total da viagem — juntos, porém, custam quase
+    mil reais por cabeça que ninguém orçou.
   </div>
 
   <h2>Item por item (e onde conferir o preço de hoje)</h2>
@@ -290,5 +328,6 @@
 
 <script data-goatcounter="https://viajasabendo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <script src="/js/afiliados.js" defer></script>
+<script src="/js/modo.js" defer></script>
 </body>
 </html>
