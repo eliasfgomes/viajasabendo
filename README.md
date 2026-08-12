@@ -21,18 +21,23 @@ se passar de ~10 páginas, criar gerador).
 
 ## Links de afiliado
 
-Todo link de parceiro tem `class="btn-aff"` + `data-aff="<parceiro>"` + `rel="noopener sponsored"`.
-Hoje apontam pro site "cru" do parceiro (sem código). Quando cada cadastro for aprovado,
-trocar os `href` pelo link com código:
+Todo link de parceiro tem `class="btn-aff"` + `data-aff="<parceiro>"` + `rel="noopener sponsored"`
++ `target="_blank"`. **Link sem o parâmetro de afiliado rende R$ 0** — foi o que aconteceu com o
+Seguros Promo até 11/ago/2026. Antes de publicar qualquer botão novo, confira se o código está lá.
 
-| data-aff       | Parceiro       | Programa                         | Status        |
-|----------------|----------------|----------------------------------|---------------|
-| `segurospromo` | Seguros Promo  | Parceiros Promo (10–25%)         | cadastrar     |
-| `holafly`      | Holafly eSIM   | Impact/Awin (10–20%)             | cadastrar     |
-| `civitatis`    | Civitatis      | próprio, 8–10% + €1/free tour — EXIGE site no ar | após deploy |
-| `rentcars`     | RentCars       | próprio (até 50% da comissão)    | após deploy   |
+| data-aff       | Parceiro       | Programa                         | Status | Parâmetro que PRECISA estar no href |
+|----------------|----------------|----------------------------------|--------|--------------------------------------|
+| `segurospromo` | Seguros Promo  | Parceiros Promo (10–25%)         | ✅ ativo | `pcrid=14823` |
+| `holafly`      | Holafly eSIM   | Impact (10% venda / 8–25% assinatura, janela 30d) | ✅ ativo | domínio `holafly.sjv.io` |
+| `viator`       | Viator         | próprio (passeios)               | ✅ ativo | `pid=P00312237` |
+| `rentcars`     | RentCars       | próprio (até 50% da comissão)    | ✅ ativo | `requestorid=10950` |
+| `civitatis`    | Civitatis      | próprio, 8–10% + €1/free tour    | ⏳ aguardando aprovação | (cru por ora) |
 
-Achar todos os pontos de troca: `grep -rn "data-aff" .`
+Conferir tudo de uma vez:
+```bash
+grep -rn "data-aff" --include="*.html" .        # todos os pontos
+grep -rn "segurospromo" --include="*.html" . | grep -c pcrid   # tem que bater com o total
+```
 
 ## Deploy (GitHub Pages) — passos do Elias
 
