@@ -39,6 +39,23 @@ grep -rn "data-aff" --include="*.html" .        # todos os pontos
 grep -rn "segurospromo" --include="*.html" . | grep -c pcrid   # tem que bater com o total
 ```
 
+## ⚠️ O repositório tem um segundo autor: o vigia commita sozinho
+
+O workflow `.github/workflows/vigia_precos.yml` roda **todo dia às 08:20 BRT**, atualiza os preços
+do Viator e **commita direto no `main`** (autor `vigia-precos`) sempre que algo muda. Consequência
+prática para quem trabalha aqui:
+
+```bash
+git pull --rebase origin main      # SEMPRE antes de começar e antes de empurrar
+```
+
+O que ele toca (e só isso): `_tools/vigia/estado.json`, `_tools/vigia/relatorio_ultimo.md` e as
+páginas `passeios/*/index.html`. **Não edite as vitrines à mão** — elas são geradas; mexa no
+`_tools/gerar_vitrine.py` (texto/curadoria) e rode `python _tools/atualizar_vitrines.py`.
+
+Se a API do Viator estiver fora, o workflow avisa, **sai com 0 e não commita nada** — o site fica
+com a última leitura boa. Isso é por design: métrica ou preço nunca derruba a página.
+
 ## Deploy (GitHub Pages) — passos do Elias
 
 1. Criar repo **público** `viajasabendo` em github.com/eliasfgomes (Pages grátis exige repo
