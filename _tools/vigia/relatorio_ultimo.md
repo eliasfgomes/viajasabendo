@@ -11,7 +11,7 @@
 
 ## Foz do Iguaçu (destId 970) — 20 produtos varridos
 - Excursão de dia inteiro nos dois lados das Cataratas do Iguaçu: brasileiro e argentino — R$ 680.0 · nota 4.769231 (520 reviews) · SELOS: FREE_CANCELLATION,LIKELY_TO_SELL_OUT
-- Pequeno grupo Falls Both Sides -Argentina and Brazil — R$ 210.0 · nota 4.9706545 (443 reviews) · SELOS: FREE_CANCELLATION,SPECIAL_OFFER
+- Pequeno grupo Falls Both Sides -Argentina and Brazil — R$ 210.0 · nota 4.970721 (444 reviews) · SELOS: FREE_CANCELLATION,SPECIAL_OFFER
 - O melhor Tour privado Iguassu Falls Brazil, Argentina in 1 day — R$ 599.0 · nota 4.9724517 (363 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 - Vôo Panorâmico de Helicóptero sobre as Cataratas do Iguaçu — R$ 750.0 · nota 4.522388 (335 reviews) · SELOS: FREE_CANCELLATION
 - Excursão para o lado argentino das Cataratas do Iguaçu — R$ 220.9 · nota 4.8013935 (287 reviews) · SELOS: FREE_CANCELLATION
