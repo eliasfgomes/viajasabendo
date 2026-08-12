@@ -1,0 +1,55 @@
+name: Vigia de preços (Viator)
+
+# Roda o vigia todo dia, regenera as vitrines e commita SÓ se algo mudou.
+# Regra firme: falha de API não quebra o site — o passo sai com 0 e sem diff,
+# então o commit simplesmente não acontece e as páginas seguem com a última
+# leitura boa.
+
+on:
+  schedule:
+    - cron: "20 11 * * *"     # 08:20 em Brasília (UTC-3)
+  workflow_dispatch:           # botão de rodar na mão
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vigia-precos
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Vigia + regenerar vitrines
+        env:
+          VIATOR_API_KEY: ${{ secrets.VIATOR_API_KEY }}
+        run: python _tools/atualizar_vitrines.py
+
+      - name: Commitar se houver mudança
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Sem mudanças — nada a commitar."
+            exit 0
+          fi
+          git config user.name "vigia-precos"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "vigia: preços do dia ($(date -u +%d/%m/%Y))"
+          git push
+          echo "### Vitrines atualizadas" >> $GITHUB_STEP_SUMMARY
+          git show --stat --oneline HEAD >> $GITHUB_STEP_SUMMARY
+
+      - name: Publicar relatório no resumo do run
+        if: always()
+        run: |
+          if [ -f _tools/vigia/relatorio_ultimo.md ]; then
+            echo "### Relatório do vigia" >> $GITHUB_STEP_SUMMARY
+            head -40 _tools/vigia/relatorio_ultimo.md >> $GITHUB_STEP_SUMMARY
+          fi

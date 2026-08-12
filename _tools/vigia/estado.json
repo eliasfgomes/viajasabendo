@@ -1,0 +1,778 @@
+{
+ "208148P1": {
+  "codigo": "208148P1",
+  "titulo": "Local Foodie Adventure em Buenos Aires com Sherpa Food Tours",
+  "preco": 489.14,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.968013,
+  "reviews": 8097,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Palermo-Food-Tour/d901-208148P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/13/c4/74/b5.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "11143P3": {
+  "codigo": "11143P3",
+  "titulo": "Experiência Gaúcha em fazenda em Buenos Aires – Grupos Pequenos",
+  "preco": 883.61,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.8351955,
+  "reviews": 1074,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Small-Group-Day-at-a-Farm-in-San-Antonio-de-Areco/d901-11143P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/7f/d9/18.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "203530P1": {
+  "codigo": "203530P1",
+  "titulo": "City Tour Privado em Buenos Aires com Guia Local",
+  "preco": 599.17,
+  "preco_cheio": 631.15,
+  "moeda": "BRL",
+  "nota": 4.868999,
+  "reviews": 3916,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR",
+   "SPECIAL_OFFER"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-car-city-tour-up-to-4-people/d901-203530P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/b7/b2/a3.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "11143P71": {
+  "codigo": "11143P71",
+  "titulo": "Tour Privado Cataratas do Iguaçu com Voo saindo de Buenos Aires",
+  "preco": 1946.05,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7063107,
+  "reviews": 412,
+  "selos": [
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-Day-at-Iguazu-Falls-from-Buenos-Aires-with-Airfare/d901-11143P71?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/20/c1/c6.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "14659P3": {
+  "codigo": "14659P3",
+  "titulo": "Excursão de um dia a uma fazenda de gaúchos em Buenos Aires",
+  "preco": 836.28,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.74717,
+  "reviews": 1060,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Full-Day-Tour-at-a-Estancia-in-San-Antonio-de-Areco-from-Buenos-Aires/d901-14659P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/17/7d/d2.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "5653P5": {
+  "codigo": "5653P5",
+  "titulo": "Intimate Underground Tango Show pela Secreto Tango Society",
+  "preco": 338.72,
+  "preco_cheio": 368.17,
+  "moeda": "BRL",
+  "nota": 4.986871,
+  "reviews": 1371,
+  "selos": [
+   "FREE_CANCELLATION",
+   "SKIP_THE_LINE",
+   "SPECIAL_OFFER"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/An-Intimate-Upclose-Tango-Show-with-Soul-Secreto-Tango-Society/d901-5653P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/15/a6/02.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "7532P32": {
+  "codigo": "7532P32",
+  "titulo": "Tango Porteño: show de tango com jantar opcional",
+  "preco": 236.68,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.060606,
+  "reviews": 33,
+  "selos": [
+   "FREE_CANCELLATION",
+   "SKIP_THE_LINE"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Tango-Porteno-Show-Buenos-Aires/d901-7532P32?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/d8/5a/e1.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "5239P119": {
+  "codigo": "5239P119",
+  "titulo": "Buenos Aires Ônibus Hop-On Hop-Off com Passeios a Pé Gratuitos",
+  "preco": 205.12,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.3766503,
+  "reviews": 2878,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Buenos-Aires-CityBus-Hop-On-Hop-Of/d901-5239P119?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/10/a2/f8.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "11143P1": {
+  "codigo": "11143P1",
+  "titulo": "City Tour em Buenos Aires para grupos pequenos",
+  "preco": 199.86,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7520137,
+  "reviews": 2359,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Small-Group-City-Tour-of-Buenos-Aires/d901-11143P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/0e/a2/78.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "11143P48": {
+  "codigo": "11143P48",
+  "titulo": "Show de tango antecipada com jantar e ônibus tradicional opcional",
+  "preco": 241.94,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.6141634,
+  "reviews": 819,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Early-Tango-Dinner-Show-with-Private-Transfer/d901-11143P48?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/20/ef/f0.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "50158P1": {
+  "codigo": "50158P1",
+  "titulo": "Excursão privada a San Antonio de Areco: cidade gaúcha e estância de Buenos Aires",
+  "preco": 1630.48,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.944,
+  "reviews": 125,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Full-Day-in-San-Antonio-de-Areco-from-Buenos-Aires/d901-50158P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/20/0b/81.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "5239PIAZOLLA": {
+  "codigo": "5239PIAZOLLA",
+  "titulo": "Palacio Tango: Show de Tango no Teatro Piazzolla",
+  "preco": 120.97,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.2211223,
+  "reviews": 303,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Piazzolla-Tango-Show-and-Dinner-in-Buenos-Aires/d901-5239PIAZOLLA?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/0d/0a/f7.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "221874P12": {
+  "codigo": "221874P12",
+  "titulo": "Show de Tango no El Viejo Almacén com jantar opcional em Buenos Aires",
+  "preco": 547.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.857143,
+  "reviews": 14,
+  "selos": [
+   "FREE_CANCELLATION",
+   "SKIP_THE_LINE"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Tango-Show-in-El-Viejo-Almacen-with-optional-dinner-in-Buenos-Aires/d901-221874P12?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/be/db/97.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "422114P1": {
+  "codigo": "422114P1",
+  "titulo": "Classe de culinária Projetado por Chef Michelin @ Argentine Experience",
+  "preco": 339.01,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9915133,
+  "reviews": 1414,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Asado-Meat-and-Grill-Masterclass-in-Buenos-Aires/d901-422114P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/13/c2/aa/4d.jpg",
+  "visto_em": "2026-08-10",
+  "destino": "Buenos Aires"
+ },
+ "11143P2": {
+  "codigo": "11143P2",
+  "titulo": "Excursão em grupo ao Delta do Tigre saindo de Buenos Aires",
+  "preco": 341.87,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.536946,
+  "reviews": 1015,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/San-Isidro-and-Tigre-Delta-Small-Group-Tour/d901-11143P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/8a/a7/0e.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "203530P10": {
+  "codigo": "203530P10",
+  "titulo": "Conheça Buenos Aires em um Tour Privado de Dia Inteiro com Guia",
+  "preco": 1037.9,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7867646,
+  "reviews": 272,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Tour-in-the-City-of-Buenos-Aires-with-a-Local-Guide/d901-203530P10?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/6d/70/eb.jpg",
+  "visto_em": "2026-08-10",
+  "destino": "Buenos Aires"
+ },
+ "5674VENTA": {
+  "codigo": "5674VENTA",
+  "titulo": "La Ventana Tango Show em Buenos Aires",
+  "preco": 305.06,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.46657,
+  "reviews": 688,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/La-Ventana-Tango-Show-with-Optional-Dinner-in-Buenos-Aires/d901-5674VENTA?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/74/15/38.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "435166P5": {
+  "codigo": "435166P5",
+  "titulo": "Visita guiada ao Teatro Colón de Buenos Aires",
+  "preco": 241.94,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 3.27,
+  "reviews": 100,
+  "selos": [
+   "FREE_CANCELLATION",
+   "SKIP_THE_LINE"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Buenos-Aires-Teatro-Colon-Guided-Tour/d901-435166P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/4c/dd/f3.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "195811P2": {
+  "codigo": "195811P2",
+  "titulo": "Churrasco, Vinhos e Sabores Argentinos no meu Terraço",
+  "preco": 416.61,
+  "preco_cheio": 468.1,
+  "moeda": "BRL",
+  "nota": 4.9431524,
+  "reviews": 387,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR",
+   "SPECIAL_OFFER"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Roasted-in-My-Terrace-and-Argentine-Flavors/d901-195811P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/27/69/07/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "6408POLO": {
+  "codigo": "6408POLO",
+  "titulo": "Jogo de polo, churrasco e viagem de dia de lição de Buenos Aires",
+  "preco": 1769.49,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9735684,
+  "reviews": 454,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Polo-Match-and-Lesson-Day-Trip-from-Buenos-Aires/d901-6408POLO?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "visto_em": "2026-08-04",
+  "destino": "Buenos Aires"
+ },
+ "346348P3": {
+  "codigo": "346348P3",
+  "titulo": "Iguazu Falls: Private day Tour both Brazil & Argentina",
+  "preco": 699.53,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9895835,
+  "reviews": 192,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Iguazu-Falls-Tour-in-Argentina/d970-346348P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/2a/a5/4a/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "5602373P1": {
+  "codigo": "5602373P1",
+  "titulo": "Iguazu Falls Dia inteiro Brasil e Argentina com a aventura de barco",
+  "preco": 457.59,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7586207,
+  "reviews": 29,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguazu-Falls-Full-Day-Brazil-and-Argentina/d970-5602373P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/16/8c/b0/b0.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "376605P1": {
+  "codigo": "376605P1",
+  "titulo": "Cataratas do Iguazu: Excursão de um dia no Brasil e na Argentina",
+  "preco": 657.45,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9929576,
+  "reviews": 142,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-Falls-Both-sides-of-the-waterfalls-in-one-day-Brazil-and-Argentina/d970-376605P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/7b/54/13.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "384147P6": {
+  "codigo": "384147P6",
+  "titulo": "Pequeno grupo Falls Both Sides -Argentina and Brazil",
+  "preco": 210.0,
+  "preco_cheio": 260.0,
+  "moeda": "BRL",
+  "nota": 4.9706545,
+  "reviews": 443,
+  "selos": [
+   "FREE_CANCELLATION",
+   "SPECIAL_OFFER"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/1-Day-Niagara-Falls-Both-Sides-Brazil-and-ARG/d970-384147P6?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/11/cc/8d/51.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "216404P1": {
+  "codigo": "216404P1",
+  "titulo": "Vôo Panorâmico de Helicóptero sobre as Cataratas do Iguaçu",
+  "preco": 750.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.522388,
+  "reviews": 335,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Panoramic-Helicopter-Flight-Iguazu-Falls-by-Helisul-Aviation/d970-216404P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/a5/59/57.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "474444P1": {
+  "codigo": "474444P1",
+  "titulo": "PRIVATE - iguazu falls BRA and ARG sides in 2 days + boat option",
+  "preco": 950.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9574466,
+  "reviews": 47,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Puerto-Iguazu/beautiful-2-day-private-tour-Both-waterfalls-bird-park/d971-474444P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/16/c1/d9/ab.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "409882P1": {
+  "codigo": "409882P1",
+  "titulo": "Excursão de Dia Completo Cataratas do Iguaçu Brasil e Argentina",
+  "preco": 250.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9078016,
+  "reviews": 141,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguazu-Falls-Full-Day-Tour-Brazil-and-Argentina/d970-409882P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/3f/bc/43.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "376605P5": {
+  "codigo": "376605P5",
+  "titulo": "Cataratas Privadas do Iguazu em 2 dias: Brasil e Argentina",
+  "preco": 946.73,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.948276,
+  "reviews": 58,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Two-Days-Private-trip-Argentinean-Brazilian-side-of-Falls/d970-376605P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/11/cc/61.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "474444P4": {
+  "codigo": "474444P4",
+  "titulo": "PRIVATE - iguazu falls in 1 day Brazil + Argentina + boat option",
+  "preco": 650.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9411764,
+  "reviews": 68,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Puerto-Iguazu/Private-1-Day-Tour-to-Iguazu-Falls-Brazil-and-Argentina/d971-474444P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/73/d2/3e.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "2484P236": {
+  "codigo": "2484P236",
+  "titulo": "Excursão de dia inteiro nos dois lados das Cataratas do Iguaçu: brasileiro e argentino",
+  "preco": 680.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.769231,
+  "reviews": 520,
+  "selos": [
+   "FREE_CANCELLATION",
+   "LIKELY_TO_SELL_OUT"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Full-Day-Iguassu-Falls-Both-Sides-Brazil-and-Argentina/d970-2484P236?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/11/30/c3.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "384147P1": {
+  "codigo": "384147P1",
+  "titulo": "O melhor Tour privado Iguassu Falls Brazil, Argentina in 1 day",
+  "preco": 599.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9724517,
+  "reviews": 363,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Full-Day-Tour-of-Iguazu-Falls/d970-384147P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/21/5a/6e.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "2484P110": {
+  "codigo": "2484P110",
+  "titulo": "Cataratas do Iguaçu no lado brasileiro: Macuco Safari, Voo de helicóptero e o Parque das A",
+  "preco": 2533.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.862069,
+  "reviews": 58,
+  "selos": [
+   "FREE_CANCELLATION",
+   "LIKELY_TO_SELL_OUT"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-Falls-Brazil-side-with-Macuco-and-Helicopter-Flight-and-Bird-Park/d970-2484P110?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/70/2f/fa.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "7558P4": {
+  "codigo": "7558P4",
+  "titulo": "Excursão para o lado argentino das Cataratas do Iguaçu",
+  "preco": 220.9,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.8013935,
+  "reviews": 287,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Tour-to-Iguassu-Falls-Argentinean-Side/d970-7558P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/98/36/aa.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "346348P6": {
+  "codigo": "346348P6",
+  "titulo": "2 - Days PRIVATE Brasil & Argentina Experience Cataratas do Iguazu",
+  "preco": 999.32,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.903226,
+  "reviews": 62,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-falls-Experience/d970-346348P6?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/4a/1b/8c/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "5674P847": {
+  "codigo": "5674P847",
+  "titulo": "Cachoeiras brasileiras com barco Macuco Safari",
+  "preco": 783.68,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 3.8421052,
+  "reviews": 19,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Brazilian-Falls-With-Macuco-Safari-Boat/d970-5674P847?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/1a/13/93.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "17214P7": {
+  "codigo": "17214P7",
+  "titulo": "Viagem de barco no Macuco Safari",
+  "preco": 573.3,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.319149,
+  "reviews": 47,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Macuco-Safari-Boat-Trip/d970-17214P7?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/79/32/cd.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "2484P111": {
+  "codigo": "2484P111",
+  "titulo": "Cataratas do Iguaçu no lado argentino com Gran Aventura",
+  "preco": 1259.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.2,
+  "reviews": 10,
+  "selos": [
+   "FREE_CANCELLATION",
+   "LIKELY_TO_SELL_OUT"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-Falls-Argentinian-Side-with-Gran-Aventura/d970-2484P111?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/70/2f/fc.jpg",
+  "visto_em": "2026-08-10",
+  "destino": "Foz do Iguaçu"
+ },
+ "116204P6": {
+  "codigo": "116204P6",
+  "titulo": "Tour no Parque das Aves e Cataratas do Iguaçu",
+  "preco": 141.67,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.652174,
+  "reviews": 23,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Tranfer-In-Out-Brazilian-Iguazu-Falls/d970-116204P6?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "visto_em": "2026-08-05",
+  "destino": "Foz do Iguaçu"
+ },
+ "5614399P1": {
+  "codigo": "5614399P1",
+  "titulo": "Iguazu Falls Brasil e Argentina com aventura de barco",
+  "preco": 415.51,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9,
+  "reviews": 10,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Tour-Iguazu-Falls-Full-Day-Brazil-and-Argentina/d970-5614399P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/45/05/d4/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "338417P2": {
+  "codigo": "338417P2",
+  "titulo": "Excursão privada às Cataratas do Iguaçu, lado brasileiro.",
+  "preco": 364.1,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7777777,
+  "reviews": 18,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-excursion-to-the-Brazilian-side-of-the-Iguacu-Falls/d970-338417P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0d/fe/5a/41.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "108599P1": {
+  "codigo": "108599P1",
+  "titulo": "Pachamama - Experiência Culinária Argentina em Buenos Aires",
+  "preco": 392.64,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9736843,
+  "reviews": 152,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR",
+   "LIKELY_TO_SELL_OUT"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Pachamama-Argentina-Cooking-Experience/d901-108599P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "visto_em": "2026-08-05",
+  "destino": "Buenos Aires"
+ },
+ "11143P4": {
+  "codigo": "11143P4",
+  "titulo": "Viaggem pelo dia à Colonia del Sacramento para pequenos grupos",
+  "preco": 1314.9,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.6764708,
+  "reviews": 170,
+  "selos": [],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Small-Group-Day-Trip-to-Colonia-from-Buenos-Aires/d901-11143P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/6a/dd/0c.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "31682P4": {
+  "codigo": "31682P4",
+  "titulo": "Tour Privado Lado Argentino das Cataratas do Iguaçu",
+  "preco": 601.41,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9215684,
+  "reviews": 51,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Tour-Argentinean-side-of-Iguazu-Falls/d970-31682P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "visto_em": "2026-08-08",
+  "destino": "Foz do Iguaçu"
+ },
+ "14659P4": {
+  "codigo": "14659P4",
+  "titulo": "Dia da Estância Gaúcha em Buenos Aires",
+  "preco": 831.02,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.7843137,
+  "reviews": 51,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Estancia-Gaucho-Day-at-El-Ombu-de-Areco-from-Buenos-Aires/d901-14659P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/ce/1c/08.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "64106P22": {
+  "codigo": "64106P22",
+  "titulo": "Vôo de helicóptero sobre as Cataratas do Iguaçu",
+  "preco": 1630.48,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 5.0,
+  "reviews": 5,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Helicopter-flight-in-the-Iguazu-Falls/d970-64106P22?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/fd/4a/96.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ },
+ "7532P60": {
+  "codigo": "7532P60",
+  "titulo": "Buenos Aires a Cataratas de Iguazu: Viagem privada de um dia, voos incluídos",
+  "preco": 5159.67,
+  "preco_cheio": 5732.96,
+  "moeda": "BRL",
+  "nota": 4.78125,
+  "reviews": 64,
+  "selos": [
+   "PRIVATE_TOUR",
+   "SPECIAL_OFFER"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Buenos-Aires-to-Iguazu-Falls-Private-Day-Trip-Flights-Included/d901-7532P60?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0d/ff/50/e0.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Buenos Aires"
+ },
+ "463652P1": {
+  "codigo": "463652P1",
+  "titulo": "Private Iguazu Falls Tour: Brasil e Argentina em um único dia VIP",
+  "preco": 3000.0,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 5.0,
+  "reviews": 18,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Tour-to-Iguassu-Falls-on-the-Brazilian-and-Argentine-Sides/d970-463652P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/32/9a/ee/10/caption.jpg",
+  "visto_em": "2026-08-12",
+  "destino": "Foz do Iguaçu"
+ }
+}

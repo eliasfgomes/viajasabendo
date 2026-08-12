@@ -1,0 +1,8 @@
+{
+  "produtos_por_destino": 20,
+  "limiar_reviews": 30,
+  "destinos": [
+    { "nome": "Buenos Aires", "id": 901 },
+    { "nome": "Foz do Iguaçu", "id": 970 }
+  ]
+}

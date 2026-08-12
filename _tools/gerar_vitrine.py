@@ -12,11 +12,13 @@ nunca so o promocional — senao o leitor clica e ve outro numero.
 Uso:  python _tools/gerar_vitrine.py buenos-aires
 """
 from __future__ import annotations
-import json, sys, html
+import json, os, sys, html
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-ESTADO = Path(r"C:\Users\elias\fabrica_modular\vigia\estado.json")
+# Estado do vigia: o do próprio repo (é o que a Action atualiza todo dia). Dá para
+# apontar para outro com VIGIA_ESTADO=... — útil para rodar contra o vigia local.
+ESTADO = Path(os.environ.get("VIGIA_ESTADO") or (Path(__file__).resolve().parent / "vigia" / "estado.json"))
 NOTA_MINIMA = 4.5          # mesmo piso de qualidade da curadoria
 REVIEWS_MINIMO = 100
 
@@ -122,6 +124,7 @@ CABECA = """<!DOCTYPE html>
 </footer>
 
 <script data-goatcounter="https://viajasabendo.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script src="/js/afiliados.js" defer></script>
 </body>
 </html>
 """
@@ -146,7 +149,7 @@ def brl_curto(v: float) -> str:
     return "R$ " + format(int(round(v)), ",d").replace(",", ".")
 
 
-def monta(slug: str) -> str:
+def monta(slug: str) -> tuple[str, int]:
     cfg = CATALOGO[slug]
     dados = json.loads(ESTADO.read_text(encoding="utf-8"))
     cards, data_vista, pulados = [], None, []
@@ -193,7 +196,7 @@ def monta(slug: str) -> str:
     print("gerado:", destino, "|", len(cards), "cards")
     for c, motivo in pulados:
         print("  PULADO", c, "-", motivo)
-    return str(destino)
+    return str(destino), len(cards)
 
 
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
