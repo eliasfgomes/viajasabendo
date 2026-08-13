@@ -12,8 +12,24 @@
 ## Foz do Iguaçu (destId 970) — 20 produtos varridos
 - Excursão de dia inteiro nos dois lados das Cataratas do Iguaçu: brasileiro e argentino — R$ 680.0 · nota 4.769231 (520 reviews) · SELOS: FREE_CANCELLATION,LIKELY_TO_SELL_OUT
 - Pequeno grupo Falls Both Sides -Argentina and Brazil — R$ 210.0 · nota 4.9707866 (445 reviews) · SELOS: FREE_CANCELLATION,SPECIAL_OFFER
+- O melhor Tour privado Iguassu Falls Brazil, Argentina in 1 day — R$ 599.0 · nota 4.9726777 (366 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 - Vôo Panorâmico de Helicóptero sobre as Cataratas do Iguaçu — R$ 750.0 · nota 4.522388 (335 reviews) · SELOS: FREE_CANCELLATION
 - Excursão para o lado argentino das Cataratas do Iguaçu — R$ 222.5 · nota 4.8013935 (287 reviews) · SELOS: FREE_CANCELLATION
 - Iguazu Falls: Private day Tour both Brazil & Argentina — R$ 715.19 · nota 4.9895835 (192 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
-- Excursão privada: 2 dias para os dois lados das Cataratas do Iguaçu — R$ 1112.51 · nota 4.9661016 (177 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
+
+## Fernando de Noronha (destId 29719) — 20 produtos varridos
+- Ilha Tour em Fernando de Noronha — R$ 280.0 · nota 4.948052 (616 reviews) · SELOS: FREE_CANCELLATION
+- Canoa Havaiana em Fernando de Noronha — R$ 280.0 · nota 4.9383116 (308 reviews) · SELOS: FREE_CANCELLATION
+- CITY TOUR - Ilha Tour Completo em Fernando de Noronha — R$ 249.0 · nota 4.988304 (171 reviews) · SELOS: FREE_CANCELLATION
+- Baia do Sancho Boat Tour — R$ 540.36 · nota 4.822581 (62 reviews) · SELOS: FREE_CANCELLATION
+- Passeio de catamarã com refeição (Entardecer VIP) — R$ 350.0 · nota 4.419355 (31 reviews) · SELOS: FREE_CANCELLATION
+- Nado na Baía do Sancho saindo de Fernando de Noronha — R$ 446.0 · nota 4.714286 (21 reviews) · SELOS: FREE_CANCELLATION
+
+## Jericoacoara (destId 33466) — 20 produtos varridos
+- Tour Litoral Leste de Jericoacoara — R$ 75.0 · nota 4.8097014 (268 reviews) · SELOS: FREE_CANCELLATION
+- Passeios completos privativos em jericoacoara — R$ 192.32 · nota 4.888889 (117 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
+- Passeio Litoral Oeste de Jericoacoara — R$ 80.0 · nota 4.852174 (115 reviews) · SELOS: FREE_CANCELLATION
+- Passeio particular de buggy em Jericoacoara-ce — R$ 699.0 · nota 4.982143 (112 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR,LIKELY_TO_SELL_OUT
+- Transfer de Jericoacoara para Fortaleza — R$ 164.5 · nota 4.4886365 (88 reviews) · SELOS: FREE_CANCELLATION
+- Passeio Particular de Bugue no Litoral Leste de Jericoacoara — R$ 549.0 · nota 4.984375 (64 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 

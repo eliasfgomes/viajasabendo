@@ -95,7 +95,7 @@ CABECA = """<!DOCTYPE html>
   <p><a class="btn" href="{volta_url}">← {volta_txt}</a></p>
 
   <div class="nota">
-    Notas, número de avaliações, fotos e preços vêm das páginas oficiais dos produtos, conferidos em {data_br}. Passeio marcado com faixa de preço (ex.: "R$ 336 a 365") é produto que aparece em oferta no nosso levantamento mas cuja página pode cobrar o valor cheio — mostramos os dois para você não ser surpreendido no clique.
+    Notas, número de avaliações, fotos e preços vêm das páginas oficiais dos produtos, conferidos em {data_br} — <strong>esta página é reconferida automaticamente todos os dias</strong>, não é uma lista escrita uma vez e esquecida. Passeio marcado com faixa de preço (ex.: "R$ 336 a 365") é produto que aparece em oferta no nosso levantamento mas cuja página pode cobrar o valor cheio — mostramos os dois para você não ser surpreendido no clique.
   </div>
 </article>
 </main>

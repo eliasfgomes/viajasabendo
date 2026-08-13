@@ -15,8 +15,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-import gerar_vitrine          # noqa: E402
-import vigia_viator           # noqa: E402
+import atualizar_precos_paginas  # noqa: E402
+import gerar_vitrine             # noqa: E402
+import vigia_viator              # noqa: E402
 
 DESTINOS = ["buenos-aires", "foz-do-iguacu"]
 MIN_CARDS = 4                 # vitrine com menos que isso é sinal de dado ruim
@@ -50,7 +51,15 @@ def main() -> int:
             traceback.print_exc()
             return 0                                    # não commita meia atualização
 
-    print("[ok] vitrines regeneradas a partir da leitura de hoje.")
+    # 3) refresca os preços dos cards nas páginas de destino (escritas à mão)
+    try:
+        atualizar_precos_paginas.main()
+    except Exception:
+        print("[precos] falhou ao atualizar as páginas de destino:")
+        traceback.print_exc()
+        return 0
+
+    print("[ok] vitrines e páginas de destino com os preços de hoje.")
     return 0
 
 
