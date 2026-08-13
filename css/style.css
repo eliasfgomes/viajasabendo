@@ -183,6 +183,15 @@ table.custos tr.total td { font-weight: 800; background: var(--areia); border-to
 }
 .card-vitrine:hover { border-color: var(--laranja); color: var(--laranja-escuro); }
 
+/* Selo de cupom, ao lado do botão do parceiro */
+.selo-cupom {
+  display: inline-block; white-space: nowrap;
+  background: #e8f6ec; color: #17683a; border: 1px dashed #86c79b;
+  border-radius: 8px; padding: 0.28rem 0.7rem; margin-left: 0.5rem;
+  font-size: 0.83rem; font-weight: 700; vertical-align: middle;
+}
+@media (max-width: 460px) { .selo-cupom { display: block; margin: 0.55rem 0 0; width: fit-content; } }
+
 .selo-neutro {
   background: var(--ceu); color: var(--azul-escuro); border: 1px solid #bcd9ec;
   border-radius: 99px; padding: 0.1rem 0.62rem; font-size: 0.76rem; font-weight: 700;
