@@ -31,6 +31,19 @@ CARD = re.compile(r'<div class="passeio">.*?(?=<div class="passeio">|</div>\s*</
 COD = re.compile(r'viator\.com[^"]*?/d\d+-(\w+)\?')
 PRECO = re.compile(r'<p class="passeio-preco">.*?</p>', re.S)
 
+# ZONAS PROTEGIDAS — a conta de cada viagem é fechada e datada à mão, casando com o
+# vídeo que a anuncia. Este script só pode mexer no preço dos CARDS de passeio.
+# Se um dia um bug fizer ele encostar na tabela, na resposta rápida ou no total,
+# o arquivo NÃO é gravado. Roda sem ninguém olhando: a regra tem que ser trava, não cuidado.
+PROTEGIDAS = [
+    re.compile(r'<table class="custos">.*?</table>', re.S),   # tabela do orçamento
+    re.compile(r'<div class="resposta[^"]*">.*?</div>', re.S),  # resposta rápida e box do erro
+]
+
+
+def zonas_protegidas(html: str) -> list[str]:
+    return [t for p in PROTEGIDAS for t in p.findall(html)]
+
 
 def paragrafo(p: dict) -> str:
     unidade = "pelo grupo (tour privado)" if "PRIVATE_TOUR" in (p.get("selos") or []) else "por pessoa"
@@ -70,6 +83,10 @@ def main() -> int:
                 html = html.replace(card, novo_card)
                 trocados += 1
         if html != original:
+            if zonas_protegidas(html) != zonas_protegidas(original):
+                print("  [ABORTADO] %s: a atualização encostou na tabela/resposta rápida — "
+                      "arquivo NÃO gravado" % arq.relative_to(RAIZ))
+                continue
             arq.write_text(html, encoding="utf-8", newline="\n")
             print("  atualizado:", arq.relative_to(RAIZ))
 
