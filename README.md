@@ -31,7 +31,11 @@ Seguros Promo até 11/ago/2026. Antes de publicar qualquer botão novo, confira 
 | `holafly`      | Holafly eSIM   | Impact (10% venda / 8–25% assinatura, janela 30d) | ✅ ativo | domínio `holafly.sjv.io` |
 | `viator`       | Viator         | próprio (passeios)               | ✅ ativo | `pid=P00312237` |
 | `rentcars`     | RentCars       | próprio (até 50% da comissão)    | ✅ ativo | `requestorid=10950` |
-| `civitatis`    | Civitatis      | próprio, 8–10% + €1/free tour    | ⏳ aguardando aprovação | (cru por ora) |
+| `civitatis`    | Civitatis      | próprio, 8–10% + €1/free tour    | ❌ removido do site em 13/ago (nunca aprovado; link cru rendia R$ 0) | — |
+
+**Regra que ficou:** nenhum link de saída sem atribuição. Onde o Viator não cobre o destino
+(a Chapada dos Veadeiros não existe no catálogo deles), a página aponta para o **canal oficial
+da atração** — que é mais barato para o leitor — em vez de um afiliado que não paga.
 
 Conferir tudo de uma vez:
 ```bash
