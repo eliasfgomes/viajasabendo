@@ -183,6 +183,15 @@ table.custos tr.total td { font-weight: 800; background: var(--areia); border-to
 }
 .card-vitrine:hover { border-color: var(--laranja); color: var(--laranja-escuro); }
 
+/* Link discreto de parceiro, ao lado de um valor (ex.: "ver preços de hoje →") */
+.link-aff {
+  display: inline-block; white-space: nowrap; text-decoration: none;
+  font-size: 0.85rem; font-weight: 700; color: var(--laranja-escuro);
+  border-bottom: 1.5px dotted var(--laranja); padding-bottom: 1px;
+}
+.link-aff:hover { color: var(--azul-escuro); border-bottom-color: var(--azul); }
+h3 .link-aff { margin-left: 0.15rem; vertical-align: middle; }
+
 /* Selo de cupom, ao lado do botão do parceiro */
 .selo-cupom {
   display: inline-block; white-space: nowrap;

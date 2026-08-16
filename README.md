@@ -31,6 +31,7 @@ Seguros Promo até 11/ago/2026. Antes de publicar qualquer botão novo, confira 
 | `holafly`      | Holafly eSIM   | Impact (10% venda / 8–25% assinatura, janela 30d) | ✅ ativo | domínio `holafly.sjv.io` |
 | `viator`       | Viator         | próprio (passeios)               | ✅ ativo | `pid=P00312237` |
 | `rentcars`     | RentCars       | próprio (até 50% da comissão)    | ✅ ativo | `requestorid=10950` |
+| `skyscanner`   | Skyscanner     | Impact (busca de voos, sem cupom) | ✅ ativo | domínio `skyscanner.pxf.io` |
 | `civitatis`    | Civitatis      | próprio, 8–10% + €1/free tour    | ❌ removido do site em 13/ago (nunca aprovado; link cru rendia R$ 0) | — |
 
 **Regra que ficou:** nenhum link de saída sem atribuição. Onde o Viator não cobre o destino
