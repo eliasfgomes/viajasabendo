@@ -1,27 +1,28 @@
-# Vigia Viator — 2026-08-15
+# Vigia Viator — 2026-08-16
 
-## (sem alertas nesta leitura)
+## 🔔 ALERTAS
+- QUEDA 23% NA LANDING: Iguazu Falls Dia inteiro Brasil e Argentina com a aventura de barco (Foz do Iguaçu) R$ 464.13 -> R$ 358.54 · https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguazu-Falls-Full-Day-Brazil-and-Argentina/d970-5602373P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0
 ## Buenos Aires (destId 901) — 20 produtos varridos
-- Local Foodie Adventure em Buenos Aires com Sherpa Food Tours — R$ 496.14 · nota 4.9680443 (8105 reviews) · SELOS: FREE_CANCELLATION
-- City Tour Privado em Buenos Aires com Guia Local — R$ 607.74 · nota 4.8688774 (3920 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR,SPECIAL_OFFER
-- Buenos Aires Ônibus Hop-On Hop-Off com Passeios a Pé Gratuitos — R$ 208.06 · nota 4.378163 (2885 reviews) · SELOS: FREE_CANCELLATION
-- City Tour em Buenos Aires para grupos pequenos — R$ 202.72 · nota 4.7520137 (2359 reviews) · SELOS: FREE_CANCELLATION
-- Intimate Underground Tango Show pela Secreto Tango Society — R$ 343.56 · nota 4.9869943 (1384 reviews) · SELOS: FREE_CANCELLATION,SKIP_THE_LINE,SPECIAL_OFFER
-- Experiência Gaúcha em fazenda em Buenos Aires – Grupos Pequenos — R$ 896.24 · nota 4.8351955 (1074 reviews) · SELOS: FREE_CANCELLATION
+- Local Foodie Adventure em Buenos Aires com Sherpa Food Tours — R$ 497.67 · nota 4.9680486 (8106 reviews) · SELOS: FREE_CANCELLATION
+- City Tour Privado em Buenos Aires com Guia Local — R$ 609.62 · nota 4.868978 (3923 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR,SPECIAL_OFFER
+- Buenos Aires Ônibus Hop-On Hop-Off com Passeios a Pé Gratuitos — R$ 208.7 · nota 4.378594 (2887 reviews) · SELOS: FREE_CANCELLATION
+- City Tour em Buenos Aires para grupos pequenos — R$ 203.35 · nota 4.7520137 (2359 reviews) · SELOS: FREE_CANCELLATION
+- Intimate Underground Tango Show pela Secreto Tango Society — R$ 344.62 · nota 4.987004 (1385 reviews) · SELOS: FREE_CANCELLATION,SKIP_THE_LINE,SPECIAL_OFFER
+- Experiência Gaúcha em fazenda em Buenos Aires – Grupos Pequenos — R$ 899.02 · nota 4.8353486 (1075 reviews) · SELOS: FREE_CANCELLATION
 
 ## Foz do Iguaçu (destId 970) — 20 produtos varridos
 - Excursão de dia inteiro nos dois lados das Cataratas do Iguaçu: brasileiro e argentino — R$ 680.0 · nota 4.769231 (520 reviews) · SELOS: FREE_CANCELLATION,LIKELY_TO_SELL_OUT
 - Pequeno grupo Falls Both Sides -Argentina and Brazil — R$ 210.0 · nota 4.970852 (446 reviews) · SELOS: FREE_CANCELLATION,SPECIAL_OFFER
 - O melhor Tour privado Iguassu Falls Brazil, Argentina in 1 day — R$ 599.0 · nota 4.972752 (367 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 - Vôo Panorâmico de Helicóptero sobre as Cataratas do Iguaçu — R$ 750.0 · nota 4.522388 (335 reviews) · SELOS: FREE_CANCELLATION
-- Excursão para o lado argentino das Cataratas do Iguaçu — R$ 224.06 · nota 4.8013935 (287 reviews) · SELOS: FREE_CANCELLATION
-- Iguazu Falls: Private day Tour both Brazil & Argentina — R$ 720.2 · nota 4.9895835 (192 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
+- Excursão para o lado argentino das Cataratas do Iguaçu — R$ 224.76 · nota 4.8013935 (287 reviews) · SELOS: FREE_CANCELLATION
+- Iguazu Falls: Private day Tour both Brazil & Argentina — R$ 722.43 · nota 4.9895835 (192 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 
 ## Fernando de Noronha (destId 29719) — 20 produtos varridos
-- Ilha Tour em Fernando de Noronha — R$ 280.0 · nota 4.9483037 (619 reviews) · SELOS: FREE_CANCELLATION
-- Canoa Havaiana em Fernando de Noronha — R$ 280.0 · nota 4.9383116 (308 reviews) · SELOS: FREE_CANCELLATION
-- CITY TOUR - Ilha Tour Completo em Fernando de Noronha — R$ 249.0 · nota 4.9886365 (176 reviews) · SELOS: FREE_CANCELLATION
-- Baia do Sancho Boat Tour — R$ 544.15 · nota 4.822581 (62 reviews) · SELOS: FREE_CANCELLATION
+- Ilha Tour em Fernando de Noronha — R$ 280.0 · nota 4.948387 (620 reviews) · SELOS: FREE_CANCELLATION
+- Canoa Havaiana em Fernando de Noronha — R$ 280.0 · nota 4.9387097 (310 reviews) · SELOS: FREE_CANCELLATION
+- CITY TOUR - Ilha Tour Completo em Fernando de Noronha — R$ 249.0 · nota 4.9888887 (180 reviews) · SELOS: FREE_CANCELLATION
+- Baia do Sancho Boat Tour — R$ 545.83 · nota 4.822581 (62 reviews) · SELOS: FREE_CANCELLATION
 - Passeio de catamarã com refeição (Entardecer VIP) — R$ 350.0 · nota 4.419355 (31 reviews) · SELOS: FREE_CANCELLATION
 - Nado na Baía do Sancho saindo de Fernando de Noronha — R$ 446.0 · nota 4.714286 (21 reviews) · SELOS: FREE_CANCELLATION
 
@@ -29,7 +30,7 @@
 - Tour Litoral Leste de Jericoacoara — R$ 75.0 · nota 4.8097014 (268 reviews) · SELOS: FREE_CANCELLATION
 - Passeios completos privativos em jericoacoara — R$ 192.32 · nota 4.888889 (117 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 - Passeio Litoral Oeste de Jericoacoara — R$ 80.0 · nota 4.852174 (115 reviews) · SELOS: FREE_CANCELLATION
-- Passeio particular de buggy em Jericoacoara-ce — R$ 699.0 · nota 4.9823008 (113 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR,LIKELY_TO_SELL_OUT
+- Passeio particular de buggy em Jericoacoara-ce — R$ 699.0 · nota 4.9823008 (113 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 - Transfer de Jericoacoara para Fortaleza — R$ 164.5 · nota 4.4886365 (88 reviews) · SELOS: FREE_CANCELLATION
 - Passeio Particular de Bugue no Litoral Leste de Jericoacoara — R$ 549.0 · nota 4.984375 (64 reviews) · SELOS: FREE_CANCELLATION,PRIVATE_TOUR
 
