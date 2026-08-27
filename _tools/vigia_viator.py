@@ -136,6 +136,7 @@ def rodar(top_n: int = 6) -> dict:
 
     hoje = datetime.date.today().isoformat()
     alertas: list[str] = []
+    degradadas: list[str] = []
     linhas = [f"# Vigia Viator — {hoje}", ""]
     estado_novo = dict(estado)
     varridos = 0
@@ -186,6 +187,12 @@ def rodar(top_n: int = 6) -> dict:
                     alertas.append(
                         f"DEMANDA SUBINDO: {p['titulo']} ({nome}) +{r_novo - r_ant} avaliações"
                     )
+            # Baseline é memória: 200 OK sem preço NÃO sobrescreve — senão
+            # real_ant vira None, a comparação é pulada pra sempre e o produto
+            # sai do vigia em silêncio (e a vitrine perderia o preço do card).
+            if not (p.get("preco_cheio") or p.get("preco")):
+                degradadas.append(f"{p['titulo']} ({nome}) — leitura sem preço; não gravada no baseline")
+                continue
             p2 = dict(p)
             p2["visto_em"] = hoje
             p2["destino"] = nome
@@ -197,13 +204,17 @@ def rodar(top_n: int = 6) -> dict:
     linhas.insert(2, "## 🔔 ALERTAS" if alertas else "## (sem alertas nesta leitura)")
     for i, a in enumerate(alertas):
         linhas.insert(3 + i, f"- {a}")
+    if degradadas:
+        linhas += ["", "## ⚠️ LEITURAS DEGRADADAS (sem preço; baseline preservado)"]
+        linhas += [f"- {d}" for d in degradadas]
 
     os.makedirs(DIR_VIGIA, exist_ok=True)
     with open(ARQ_ESTADO, "w", encoding="utf-8", newline="\n") as f:
         json.dump(estado_novo, f, ensure_ascii=False, indent=1)
     with open(ARQ_REL, "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(linhas) + "\n")
-    return {"produtos": len(estado_novo), "varridos": varridos, "alertas": alertas}
+    return {"produtos": len(estado_novo), "varridos": varridos, "alertas": alertas,
+            "degradadas": degradadas}
 
 
 if __name__ == "__main__":
@@ -212,6 +223,9 @@ if __name__ == "__main__":
     except ErroAPI as e:
         print(f"[vigia] FALHOU: {e}")
         sys.exit(1)
-    print(f"[vigia] {r['varridos']} varridos · {r['produtos']} acompanhados · {len(r['alertas'])} alertas")
+    print(f"[vigia] {r['varridos']} varridos · {r['produtos']} acompanhados · "
+          f"{len(r['alertas'])} alertas · {len(r['degradadas'])} degradadas")
     for a in r["alertas"]:
         print("  !", a)
+    for d in r["degradadas"]:
+        print("  ~", d)
