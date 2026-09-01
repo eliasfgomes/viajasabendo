@@ -1,13 +1,15 @@
 name: Vigia de preços (Viator)
 
-# Roda o vigia todo dia, regenera as vitrines e commita SÓ se algo mudou.
+# Roda o vigia SEMANALMENTE (31/ago/2026: era diário; auditoria externa apontou
+# ruído/falsa precisão sem venda que justifique — decisão Elias via OPERACAO),
+# regenera as vitrines e commita SÓ se algo mudou.
 # Regra firme: falha de API não quebra o site — o passo sai com 0 e sem diff,
 # então o commit simplesmente não acontece e as páginas seguem com a última
 # leitura boa.
 
 on:
   schedule:
-    - cron: "20 11 * * *"     # 08:20 em Brasília (UTC-3)
+    - cron: "20 11 * * 1"     # segundas, 08:20 em Brasília (UTC-3)
   workflow_dispatch:           # botão de rodar na mão
 
 permissions:
