@@ -2,7 +2,7 @@
  "208148P1": {
   "codigo": "208148P1",
   "titulo": "Local Foodie Adventure em Buenos Aires com Sherpa Food Tours",
-  "preco": 493.84,
+  "preco": 496.63,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.9683237,
@@ -12,107 +12,107 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Palermo-Food-Tour/d901-208148P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/13/c4/74/b5.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "11143P3": {
   "codigo": "11143P3",
   "titulo": "Experiência Gaúcha em fazenda em Buenos Aires – Grupos Pequenos",
-  "preco": 892.1,
+  "preco": 897.14,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.833948,
-  "reviews": 1084,
+  "nota": 4.8325667,
+  "reviews": 1087,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Small-Group-Day-at-a-Farm-in-San-Antonio-de-Areco/d901-11143P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/7f/d9/18.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "203530P1": {
   "codigo": "203530P1",
   "titulo": "City Tour Privado em Buenos Aires com Guia Local",
-  "preco": 604.93,
-  "preco_cheio": 637.21,
+  "preco": 683.54,
+  "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.869696,
-  "reviews": 3983,
+  "nota": 4.8697395,
+  "reviews": 3992,
   "selos": [
    "FREE_CANCELLATION",
-   "PRIVATE_TOUR",
-   "SPECIAL_OFFER"
+   "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-car-city-tour-up-to-4-people/d901-203530P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/b7/b2/a3.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "11143P71": {
   "codigo": "11143P71",
   "titulo": "Tour Privado Cataratas do Iguaçu com Voo saindo de Buenos Aires",
-  "preco": 1964.74,
+  "preco": 1975.85,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.7077293,
-  "reviews": 414,
+  "nota": 4.7084336,
+  "reviews": 415,
   "selos": [
    "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-Day-at-Iguazu-Falls-from-Buenos-Aires-with-Airfare/d901-11143P71?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/20/c1/c6.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "14659P3": {
   "codigo": "14659P3",
   "titulo": "Excursão de um dia a uma fazenda de gaúchos em Buenos Aires",
-  "preco": 844.31,
+  "preco": 849.08,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.748363,
-  "reviews": 1069,
+  "nota": 4.7490673,
+  "reviews": 1072,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Full-Day-Tour-at-a-Estancia-in-San-Antonio-de-Areco-from-Buenos-Aires/d901-14659P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/17/7d/d2.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "5653P5": {
   "codigo": "5653P5",
   "titulo": "Intimate Underground Tango Show pela Secreto Tango Society",
-  "preco": 371.71,
-  "preco_cheio": null,
+  "preco": 336.43,
+  "preco_cheio": 373.81,
   "moeda": "BRL",
-  "nota": 4.9865046,
-  "reviews": 1482,
+  "nota": 4.986595,
+  "reviews": 1492,
   "selos": [
    "FREE_CANCELLATION",
-   "SKIP_THE_LINE"
+   "SKIP_THE_LINE",
+   "SPECIAL_OFFER"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/An-Intimate-Upclose-Tango-Show-with-Soul-Secreto-Tango-Society/d901-5653P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/15/a6/02.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "7532P32": {
   "codigo": "7532P32",
   "titulo": "Tango Porteño: show de tango com jantar opcional",
-  "preco": 238.96,
+  "preco": 240.31,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.138889,
-  "reviews": 36,
+  "nota": 4.1621623,
+  "reviews": 37,
   "selos": [
    "FREE_CANCELLATION",
    "SKIP_THE_LINE"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Tango-Porteno-Show-Buenos-Aires/d901-7532P32?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/d8/5a/e1.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "5239P119": {
@@ -134,33 +134,33 @@
  "11143P1": {
   "codigo": "11143P1",
   "titulo": "City Tour em Buenos Aires para grupos pequenos",
-  "preco": 201.78,
+  "preco": 202.93,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.7537813,
-  "reviews": 2380,
+  "nota": 4.752205,
+  "reviews": 2381,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Small-Group-City-Tour-of-Buenos-Aires/d901-11143P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/0e/a2/78.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "11143P48": {
   "codigo": "11143P48",
   "titulo": "Horário Antecipado – Show de Tango e Jantar em Buenos Aires",
-  "preco": 244.27,
+  "preco": 245.65,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.616223,
-  "reviews": 826,
+  "nota": 4.6164055,
+  "reviews": 829,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Early-Tango-Dinner-Show-with-Private-Transfer/d901-11143P48?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/20/ef/f0.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "50158P1": {
@@ -183,7 +183,7 @@
  "5239PIAZOLLA": {
   "codigo": "5239PIAZOLLA",
   "titulo": "Palacio Tango: Show de Tango no Teatro Piazzolla",
-  "preco": 122.13,
+  "preco": 122.82,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.226537,
@@ -193,7 +193,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Piazzolla-Tango-Show-and-Dinner-in-Buenos-Aires/d901-5239PIAZOLLA?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/0d/0a/f7.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "221874P12": {
@@ -232,41 +232,40 @@
  "11143P2": {
   "codigo": "11143P2",
   "titulo": "Excursão em grupo ao Delta do Tigre saindo de Buenos Aires",
-  "preco": 345.16,
+  "preco": 347.11,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.5387597,
-  "reviews": 1032,
+  "nota": 4.539652,
+  "reviews": 1034,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/San-Isidro-and-Tigre-Delta-Small-Group-Tour/d901-11143P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/8a/a7/0e.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "203530P10": {
   "codigo": "203530P10",
   "titulo": "Conheça Buenos Aires em um Tour Privado de Dia Inteiro com Guia",
-  "preco": 992.99,
-  "preco_cheio": 1056.71,
+  "preco": 1174.83,
+  "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.791367,
-  "reviews": 278,
+  "nota": 4.7921147,
+  "reviews": 279,
   "selos": [
    "FREE_CANCELLATION",
-   "PRIVATE_TOUR",
-   "SPECIAL_OFFER"
+   "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Tour-in-the-City-of-Buenos-Aires-with-a-Local-Guide/d901-203530P10?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/6d/70/eb.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "5674VENTA": {
   "codigo": "5674VENTA",
   "titulo": "La Ventana Tango Show em Buenos Aires",
-  "preco": 292.06,
+  "preco": 309.73,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.468116,
@@ -276,7 +275,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/La-Ventana-Tango-Show-with-Optional-Dinner-in-Buenos-Aires/d901-5674VENTA?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/74/15/38.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "435166P5": {
@@ -299,19 +298,18 @@
  "195811P2": {
   "codigo": "195811P2",
   "titulo": "Churrasco, Vinhos e Sabores Argentinos no meu Terraço",
-  "preco": 420.61,
-  "preco_cheio": 472.6,
+  "preco": 475.27,
+  "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.9460783,
-  "reviews": 408,
+  "nota": 4.946472,
+  "reviews": 411,
   "selos": [
    "FREE_CANCELLATION",
-   "PRIVATE_TOUR",
-   "SPECIAL_OFFER"
+   "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Roasted-in-My-Terrace-and-Argentine-Flavors/d901-195811P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/26/79/10/caption.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "6408POLO": {
@@ -332,24 +330,24 @@
  "346348P3": {
   "codigo": "346348P3",
   "titulo": "Iguazu Falls: Private day Tour both Brazil & Argentina",
-  "preco": 669.07,
+  "preco": 640.82,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.989899,
-  "reviews": 198,
+  "nota": 4.990099,
+  "reviews": 202,
   "selos": [
    "FREE_CANCELLATION",
    "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Iguazu-Falls-Tour-in-Argentina/d970-346348P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/2a/a5/4a/caption.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "5602373P1": {
   "codigo": "5602373P1",
   "titulo": "Iguazu Falls Dia inteiro Brasil e Argentina com a aventura de barco",
-  "preco": 408.88,
+  "preco": 363.13,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.6944447,
@@ -360,24 +358,24 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguazu-Falls-Full-Day-Brazil-and-Argentina/d970-5602373P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/16/8c/b0/b0.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "376605P1": {
   "codigo": "376605P1",
   "titulo": "Cataratas do Iguazu: Excursão de um dia no Brasil e na Argentina",
-  "preco": 645.82,
+  "preco": 649.47,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.9933333,
-  "reviews": 150,
+  "nota": 4.993464,
+  "reviews": 153,
   "selos": [
    "FREE_CANCELLATION",
    "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-Falls-Both-sides-of-the-waterfalls-in-one-day-Brazil-and-Argentina/d970-376605P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/7c/8f/b1.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "384147P6": {
@@ -386,15 +384,15 @@
   "preco": 252.0,
   "preco_cheio": 280.0,
   "moeda": "BRL",
-  "nota": 4.9722223,
-  "reviews": 468,
+  "nota": 4.9722815,
+  "reviews": 469,
   "selos": [
    "FREE_CANCELLATION",
    "SPECIAL_OFFER"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/1-Day-Niagara-Falls-Both-Sides-Brazil-and-ARG/d970-384147P6?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/11/cc/8d/51.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "216404P1": {
@@ -403,14 +401,14 @@
   "preco": 750.0,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.535714,
-  "reviews": 336,
+  "nota": 4.5411763,
+  "reviews": 340,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Panoramic-Helicopter-Flight-Iguazu-Falls-by-Helisul-Aviation/d970-216404P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/a5/59/57.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "474444P1": {
@@ -427,7 +425,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Puerto-Iguazu/beautiful-2-day-private-tour-Both-waterfalls-bird-park/d971-474444P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/16/c1/d9/ab.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "409882P1": {
@@ -449,7 +447,7 @@
  "376605P5": {
   "codigo": "376605P5",
   "titulo": "Cataratas Privadas do Iguazu em 2 dias: Brasil e Argentina",
-  "preco": 948.28,
+  "preco": 953.64,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.948276,
@@ -460,7 +458,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Two-Days-Private-trip-Argentinean-Brazilian-side-of-Falls/d970-376605P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/5c/8c/2c.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "474444P4": {
@@ -469,15 +467,15 @@
   "preco": 650.0,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.9411764,
-  "reviews": 68,
+  "nota": 4.942029,
+  "reviews": 69,
   "selos": [
    "FREE_CANCELLATION",
    "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Puerto-Iguazu/Private-1-Day-Tour-to-Iguazu-Falls-Brazil-and-Argentina/d971-474444P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/73/d2/3e.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "2484P236": {
@@ -486,15 +484,15 @@
   "preco": 680.0,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.7727275,
-  "reviews": 528,
+  "nota": 4.773157,
+  "reviews": 529,
   "selos": [
    "FREE_CANCELLATION",
    "LIKELY_TO_SELL_OUT"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Full-Day-Iguassu-Falls-Both-Sides-Brazil-and-Argentina/d970-2484P236?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/11/30/c3.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "384147P1": {
@@ -534,7 +532,7 @@
  "7558P4": {
   "codigo": "7558P4",
   "titulo": "Excursão para o lado argentino das Cataratas do Iguaçu",
-  "preco": 223.02,
+  "preco": 224.29,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.80339,
@@ -544,7 +542,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Tour-to-Iguassu-Falls-Argentinean-Side/d970-7558P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/98/36/aa.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "346348P6": {
@@ -1181,19 +1179,18 @@
  "5632310P2": {
   "codigo": "5632310P2",
   "titulo": "Dia inteiro Iguassu Falls ambos os lados Argentina e Brasil",
-  "preco": 215.96,
-  "preco_cheio": 260.2,
+  "preco": 261.67,
+  "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.75,
   "reviews": 16,
   "selos": [
    "FREE_CANCELLATION",
-   "SPECIAL_OFFER",
    "NEW_ON_VIATOR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Full-Day-Iguassu-Falls-Both-Sides-Argentina-and-Brazil/d970-5632310P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/14/1f/56.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "5506372P2": {
@@ -1216,7 +1213,7 @@
  "31682P7": {
   "codigo": "31682P7",
   "titulo": "Excursão privada: 2 dias para os dois lados das Cataratas do Iguaçu",
-  "preco": 1106.66,
+  "preco": 1121.43,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.9661016,
@@ -1227,17 +1224,17 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Tour-Package-02-days-Both-sides-of-the-falls-and-airport-transfers/d970-31682P7?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0e/f0/35/f2.jpg",
-  "visto_em": "2026-09-21",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "5497770P1": {
   "codigo": "5497770P1",
   "titulo": "Excursão privada em Buenos Aires com guia local",
-  "preco": 520.92,
-  "preco_cheio": 578.8,
+  "preco": 523.87,
+  "preco_cheio": 582.08,
   "moeda": "BRL",
-  "nota": 4.95914,
-  "reviews": 465,
+  "nota": 4.9596605,
+  "reviews": 471,
   "selos": [
    "FREE_CANCELLATION",
    "PRIVATE_TOUR",
@@ -1245,7 +1242,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Buenos-Aires-City-Private-Tour-with-Local-Guide/d901-5497770P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/13/5b/7a/af.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "434728P8": {
@@ -1277,13 +1274,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Private-Full-Day-Tour-of-Fernando-de-Noronha/d29719-356435P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/28/01/6b.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "272062P46": {
   "codigo": "272062P46",
   "titulo": "Passeio de Barco em Fernando de Noronha com Natação e Traslados",
-  "preco": 663.76,
+  "preco": 667.52,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 5.0,
@@ -1293,13 +1290,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Traditional-Boat-in-Fernando-de-Noronha/d29719-272062P46?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/d8/30/0c.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "482929P21": {
   "codigo": "482929P21",
   "titulo": "Fernando DE Noronha Island Tour Explore o Paraíso",
-  "preco": 483.81,
+  "preco": 480.71,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": null,
@@ -1309,13 +1306,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Fernando-de-Noronha-Island-Tour-Explore-Paradise/d29719-482929P21?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/c0/76/40.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "435258P18": {
   "codigo": "435258P18",
   "titulo": "Ilha Tour em Fernando DE Noronha",
-  "preco": 604.76,
+  "preco": 600.88,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": null,
@@ -1325,7 +1322,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Ilha-Tour-in-Fernando-de-Noronha-Explore-the-Islands-Beauty/d29719-435258P18?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/c0/76/40.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "193195P1": {
@@ -1334,14 +1331,14 @@
   "preco": 280.0,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.948229,
-  "reviews": 734,
+  "nota": 4.949468,
+  "reviews": 752,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Tour-Island/d29719-193195P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/84/2c/df.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "302268P3": {
@@ -1357,7 +1354,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Private-Cruise-in-Porto-Santo-Antonio-with-Barbecue/d29719-302268P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/b6/a1/cf.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "2484P200": {
@@ -1373,7 +1370,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Underwater-Boat-Hitchhiking-with-optional-Barbecue-Lunch/d29719-2484P200?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/a7/8f/f5.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "387880P23": {
@@ -1389,7 +1386,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/VIP-Sunset-Experience-in-Fernando-de-Noronha/d29719-387880P23?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/d8/2f/a9.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "341304P2": {
@@ -1427,7 +1424,7 @@
  "5674P1109": {
   "codigo": "5674P1109",
   "titulo": "Passeio de Barco em Fernando de Noronha",
-  "preco": 509.77,
+  "preco": 512.65,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.875,
@@ -1435,13 +1432,13 @@
   "selos": [],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Boat-trip-in-Fernando-de-Noronha/d29719-5674P1109?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/22/54/ba.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "58019P7": {
   "codigo": "58019P7",
   "titulo": "Baia do Sancho Boat Tour",
-  "preco": 541.63,
+  "preco": 544.69,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.825397,
@@ -1451,13 +1448,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/BOAT-RIDE/d29719-58019P7?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/32/55/bb.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "435268P1": {
   "codigo": "435268P1",
   "titulo": "7 Horas de Aventura Ilhatour em Fernando de Noronha",
-  "preco": 635.0,
+  "preco": 630.93,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.3125,
@@ -1467,7 +1464,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Discover-Paradise-The-Ilhatour-Adventure-in-Fernando-de-Noronha/d29719-435268P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/11/ef/44/02.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "193195P2": {
@@ -1476,14 +1473,14 @@
   "preco": 280.0,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.947205,
-  "reviews": 322,
+  "nota": 4.9481707,
+  "reviews": 328,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Hawaiian-Canoe-in-Fernando-de-Noronha/d29719-193195P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/84/6c/d2.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "387880P21": {
@@ -1499,13 +1496,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Traditional-Boat-Tour-in-Fernando-de-Noronha/d29719-387880P21?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/d8/30/10.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "58019P20": {
   "codigo": "58019P20",
   "titulo": "Piquenique Especial",
-  "preco": 1221.33,
+  "preco": 1228.23,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.0,
@@ -1515,13 +1512,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/SPECIAL-PICNIC/d29719-58019P20?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/22/87/d5.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "5674P1111": {
   "codigo": "5674P1111",
   "titulo": "Diving Experience in Fernando de Noronha",
-  "preco": 1810.75,
+  "preco": 1820.99,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 5.0,
@@ -1529,12 +1526,12 @@
   "selos": [],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Diving-Experience-in-Fernando-de-Noronha/d29719-5674P1111?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/22/55/dc.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "2484P198": {
   "codigo": "2484P198",
-  "titulo": "Nado na Baía do Sancho saindo de Fernando de Noronha",
+  "titulo": "Passeio de Barco e Nado em Sancho Bay a partir de Fernando de Noronha",
   "preco": 446.0,
   "preco_cheio": null,
   "moeda": "BRL",
@@ -1545,7 +1542,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Sancho-Bay-Swim-and-Dolphin-Watching-from-Fernando-de-Noronha/d29719-2484P198?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/ab/34/5b.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "252033P1": {
@@ -1561,13 +1558,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Hawaiian-Canoe-Tour-in-Fernando-de-Noronha/d29719-252033P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/83/53/ea.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "5674P1120": {
   "codigo": "5674P1120",
   "titulo": "Transfer Compartilhado do Aeroporto de Fernando de Noronha",
-  "preco": 89.22,
+  "preco": 90.78,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 3.5,
@@ -1575,7 +1572,7 @@
   "selos": [],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Fernando-de-Noronha-Airport-Shared-Transfer/d29719-5674P1120?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/22/86/b5.jpg",
-  "visto_em": "2026-09-14",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "217831P1": {
@@ -1592,7 +1589,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Full-Tours-in-jericoacoara/d33466-217831P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/aa/82/47.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "5583327P4": {
@@ -1609,7 +1606,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Vacation-Package-Maranhenses-from-Jericoacoara/d33466-5583327P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/67/e1/95/caption.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "436483P5": {
@@ -1626,7 +1623,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Transfer-Jericoacoara-Airport-to-Villa-DE-Jericoacoara/d33466-436483P5?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/17/0c/88/f5.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "122002P13": {
@@ -1642,7 +1639,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Transfer-from-Jericoacoara-to-Fortaleza/d33466-122002P13?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/03/fd/dc.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "357742P1": {
@@ -1659,7 +1656,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Bugue-Tour-on-the-East-Coast-of-Jericoacoara/d33466-357742P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/41/71/ea.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "5609024P1": {
@@ -1710,7 +1707,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Jericoacoara-West-Coast-Tour/d33466-122002P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/5b/a1/c8.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "324201P3": {
@@ -1745,7 +1742,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Transfer-to-Jeri-from-Jericoacoara-Airport/d33466-410138P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/ba/4e/03.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "325825P2": {
@@ -1762,7 +1759,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Transfer-to-and-from-Jeri-Airport-to-Vila-de-Jeri/d33466-325825P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/34/61/b5/c7/caption.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "122002P3": {
@@ -1778,7 +1775,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Jericoacoara-East-Coast-Tour/d33466-122002P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/16/d9/07/b8.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "324201P2": {
@@ -1795,14 +1792,14 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Day-Buggy-Tour-of-the-East/d33466-324201P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/25/74/24.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "161924P3": {
   "codigo": "161924P3",
   "titulo": "Passeio Privativo de Buggy Lagoa do Paraíso + Buraco Azul + Praia Prea",
-  "preco": 302.68,
-  "preco_cheio": 366.4,
+  "preco": 304.39,
+  "preco_cheio": 368.47,
   "moeda": "BRL",
   "nota": 4.75,
   "reviews": 24,
@@ -1813,13 +1810,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Buggy-ride-to-Lagoa-Paraiso/d33466-161924P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/a0/36/be.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "5674P946": {
   "codigo": "5674P946",
   "titulo": "Passeio Privado de Buggy para Lagoa do Paraíso",
-  "preco": 1030.16,
+  "preco": 1035.99,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": null,
@@ -1830,7 +1827,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Buggy-Tour-To-Lagoa-Do-Paraiso/d33466-5674P946?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0e/8f/e4/66.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "380231P1": {
@@ -1839,15 +1836,15 @@
   "preco": 699.0,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.9827585,
-  "reviews": 116,
+  "nota": 4.9831934,
+  "reviews": 119,
   "selos": [
    "FREE_CANCELLATION",
    "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Bugue-Tour-in-Jericoacoara-on-the-East-Coast/d33466-380231P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/fc/f7/1f.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "122002P10": {
@@ -1864,7 +1861,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Ipark/d33466-122002P10?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/42/77/fb.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "357742P2": {
@@ -1881,7 +1878,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Bugue-Tour-on-the-West-Coast-of-Jericoacoara/d33466-357742P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0f/41/b4/23.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "409241P1": {
@@ -1897,13 +1894,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/ATV-rental-in-Prea/d33466-409241P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/9a/51/c9.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "5674P1096": {
   "codigo": "5674P1096",
   "titulo": "Transfer Grupo de Ida entre Aeroporto de Fortaleza e Jericoacoara",
-  "preco": 658.45,
+  "preco": 662.18,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": null,
@@ -1913,7 +1910,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Jericoacoara-Shared-Transfer-From-Fortaleza-Airport/d33466-5674P1096?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/21/c8/bf.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "338417P1": {
@@ -2327,13 +2324,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Discover-the-natural-beauty-of-Fernando-de-Noronha-aboard-our-Canoe/d29719-188871P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/09/9e/28/c0.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "5674P90": {
   "codigo": "5674P90",
   "titulo": "Show de tango em El Viejo Almacen com jantar opcional",
-  "preco": 265.51,
+  "preco": 267.01,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.5,
@@ -2343,7 +2340,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/El-Viejo-Almacen-Dinner-and-Tango-Show/d901-5674P90?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/7b/47/c9.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "346348P5": {
@@ -2433,33 +2430,32 @@
  "203530P4": {
   "codigo": "203530P4",
   "titulo": "Tour Privado: Buenos Aires e Delta do Tigre com Guia Local",
-  "preco": 679.69,
-  "preco_cheio": 754.04,
+  "preco": 854.42,
+  "preco_cheio": null,
   "moeda": "BRL",
   "nota": 4.8067226,
   "reviews": 357,
   "selos": [
    "FREE_CANCELLATION",
-   "PRIVATE_TOUR",
-   "SPECIAL_OFFER"
+   "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Private-Tour-in-Buenos-Aires-with-Sailing-in-Delta-del-Tigre/d901-203530P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/73/ef/a3.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "11143P288": {
   "codigo": "11143P288",
   "titulo": "2 - Dia Iguazu Falls com tarifa aérea opcional a partir de Buenos Aires",
-  "preco": 2070.95,
+  "preco": 2082.66,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.5915494,
-  "reviews": 71,
+  "nota": 4.5972223,
+  "reviews": 72,
   "selos": [],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/2-Days-Iguazu-Falls-Tour-of-the-Brazilian-and-Argentinian-sides/d901-11143P288?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/10/7f/6c/fd.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "5674SENOR": {
@@ -2565,18 +2561,18 @@
  "338417P4": {
   "codigo": "338417P4",
   "titulo": "Excursão privada às Cataratas do Iguaçu, Brasil e Argentina",
-  "preco": 665.18,
+  "preco": 660.91,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.8432837,
-  "reviews": 134,
+  "nota": 4.8444443,
+  "reviews": 135,
   "selos": [
    "FREE_CANCELLATION",
    "PRIVATE_TOUR"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Private-Full-Day-Tour-of-Both-Sides-of-Iguacu-Falls/d970-338417P4?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/11/6e/bc/7d.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "14659P132": {
@@ -2630,17 +2626,17 @@
  "11143P272": {
   "codigo": "11143P272",
   "titulo": "Buenos Aires Bodega Gamboa Wine Tasting Tour & Almoço",
-  "preco": 890.24,
+  "preco": 902.48,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.725322,
-  "reviews": 233,
+  "nota": 4.7245765,
+  "reviews": 236,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/Small-group-Wine-Tasting-in-Bodega-Gamboa-with-Picnic/d901-11143P272?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/16/47/88/2d.jpg",
-  "visto_em": "2026-08-24",
+  "visto_em": "2026-10-05",
   "destino": "Buenos Aires"
  },
  "60494P8": {
@@ -2876,7 +2872,7 @@
  "444586P3": {
   "codigo": "444586P3",
   "titulo": "Brasil e Argentina: Iguazu Falls Private Full-Day + barco opcional",
-  "preco": 769.97,
+  "preco": 774.32,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": 5.0,
@@ -2886,7 +2882,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguazu-Falls-All-Day-Private-Tour-of-Brazil-Argentina-Sides/d970-444586P3?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/r/33/95/44/05/caption.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "58019P21": {
@@ -3011,7 +3007,7 @@
  "482929P22": {
   "codigo": "482929P22",
   "titulo": "Turismo pelas piscinas naturais Fernando DE Noronha",
-  "preco": 483.81,
+  "preco": 480.71,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": null,
@@ -3021,13 +3017,13 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Fernando-de-Noronha/Fernando-de-Noronha-Natural-Pools-Tour/d29719-482929P22?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/d8/2f/67.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Fernando de Noronha"
  },
  "8653P7520": {
   "codigo": "8653P7520",
   "titulo": "Transfer Privado de Jericoacoara ao Aeroporto de Fortaleza (FOR)",
-  "preco": 2116.67,
+  "preco": 2103.09,
   "preco_cheio": null,
   "moeda": "BRL",
   "nota": null,
@@ -3038,23 +3034,23 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Private-Transfer-from-Jericoacoara-to-Fortaleza-FOR-Airport/d33466-8653P7520?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0a/ce/5a/0b.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "17214P20": {
   "codigo": "17214P20",
   "titulo": "Iguazu Falls in All Dimensions: helicóptero, trilho, passeio de barco",
-  "preco": 2426.72,
+  "preco": 2440.45,
   "preco_cheio": null,
   "moeda": "BRL",
-  "nota": 4.25,
-  "reviews": 4,
+  "nota": 3.6,
+  "reviews": 5,
   "selos": [
    "FREE_CANCELLATION"
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Earth-Water-and-Air-Circuit-Experience-Foz-in-All-Dimensions/d970-17214P20?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/7b/24/92.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "5529176P2": {
@@ -3070,7 +3066,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/1-Day-Iguacu-Falls-Tour-across-Brazil-and-Argentina/d970-5529176P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/46/61/3d.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "5568618P1": {
@@ -3087,7 +3083,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Imperfect-Tours-Paraguay-Waterfalls-Argentina-and-More/d970-5568618P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/86/01/10.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Foz do Iguaçu"
  },
  "410138P2": {
@@ -3105,7 +3101,7 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Buggy-West-Coast-or-East-Side-Tour/d33466-410138P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/15/7b/da/9a.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
  },
  "122002P15": {
@@ -3121,7 +3117,73 @@
   ],
   "url": "https://www.viator.com/pt-BR/tours/Jericoacoara/Transfer-of-hotels-in-Fortaleza-to-Pinto-Martins-Airport/d33466-122002P15?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
   "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/12/e9/33/0b.jpg",
-  "visto_em": "2026-09-28",
+  "visto_em": "2026-10-05",
   "destino": "Jericoacoara"
+ },
+ "483168P1": {
+  "codigo": "483168P1",
+  "titulo": "Churrasco argentino com Betty e Marcelo em Buenos Aires",
+  "preco": 587.42,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.99118,
+  "reviews": 907,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Buenos-Aires/I-shared-an-Argentine-Asado-with-Family-with-Betty-and-Marcelo/d901-483168P1?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/13/9f/2a/0f.jpg",
+  "visto_em": "2026-10-05",
+  "destino": "Buenos Aires"
+ },
+ "72313P55": {
+  "codigo": "72313P55",
+  "titulo": "Iguaçu: Cachoeiras Brasileiras Privadas, Passeio de Barco, Parque das Aves com Almoço",
+  "preco": 2387.05,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.882353,
+  "reviews": 17,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Iguassu-Brazilian-side-Macuco-Safari-Bird-Park-Private-Tour-Also-IGU-Pickup/d970-72313P55?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0e/c9/0f/38.jpg",
+  "visto_em": "2026-10-05",
+  "destino": "Foz do Iguaçu"
+ },
+ "134053P2": {
+  "codigo": "134053P2",
+  "titulo": "Paraguay Experience",
+  "preco": 961.23,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.5833335,
+  "reviews": 96,
+  "selos": [
+   "FREE_CANCELLATION"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/PARAGUAY-EXPERIENCE/d970-134053P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/07/3b/ff/22.jpg",
+  "visto_em": "2026-10-05",
+  "destino": "Foz do Iguaçu"
+ },
+ "134750P2": {
+  "codigo": "134750P2",
+  "titulo": "Transporte privativo com guia para as Cataratas do lado Argentino.",
+  "preco": 480.61,
+  "preco_cheio": null,
+  "moeda": "BRL",
+  "nota": 4.9722223,
+  "reviews": 36,
+  "selos": [
+   "FREE_CANCELLATION",
+   "PRIVATE_TOUR"
+  ],
+  "url": "https://www.viator.com/pt-BR/tours/Foz-do-Iguacu/Visit-the-falls-on-the-Argentinian-side-and-mark-the-three-Argentine-side-border/d970-134750P2?mcid=42383&pid=P00312237&medium=api&api_version=2.0",
+  "imagem": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/0b/fc/63/98.jpg",
+  "visto_em": "2026-10-05",
+  "destino": "Foz do Iguaçu"
  }
 }
